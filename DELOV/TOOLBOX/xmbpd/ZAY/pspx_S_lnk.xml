@@ -1,0 +1,84 @@
+﻿<XMBML version="1.0">
+    <View id="NPEB00986_000">
+        <Attributes>
+            <Table key="link_000">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP1001/NPEB00986_00/aKtSUHdpaONzQsltFRXpBnGQezVmpxNQnUNUrqBfAheUpOnsGocSgemZgCcVEGnU.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP1001/NPEB00986_00/aKtSUHdpaONzQsltFRXpBnGQezVmpxNQnUNUrqBfAheUpOnsGocSgemZgCcVEGnU.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP1001-NPEB00986_00-SPECOPSTHELINE00</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/icon/dg</String></Pair>
+            </Table>
+            <Table key="link_001">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://b0.ww.np.dl.playstation.net/tppkg/np/NPEB00986/NPEB00986_T14/89673835e1cfc151/EP1001-NPEB00986_00-SPECOPSTHELINE00-A0101-V0102-PE.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://b0.ww.np.dl.playstation.net/tppkg/np/NPEB00986/NPEB00986_T14/89673835e1cfc151/EP1001-NPEB00986_00-SPECOPSTHELINE00-A0101-V0102-PE.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP1001-NPEB00986_00-SPECOPSTHELINE00</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/icon/dp</String></Pair>
+            </Table>
+            <Table key="link_002">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/agw-25HXAk1E5A</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/agw-25HXAk1E5A</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>1GAME0-NPEB00986_00-NPEB009860000001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/icon/df</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="link_000" attr="link_000"/>
+            <Item class="type:x-xmb/xmlnpsignup" key="link_001" attr="link_001"/>
+            <Item class="type:x-xmb/xmlnpsignup" key="link_002" attr="link_002"/>
+        </Items>
+    </View>
+    <View id="NPEB01976_009">
+        <Attributes>
+            <Table key="link_013">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP4389/NPEB01976_00/LhSzFsgbAgjcoMNNCnWTOCCGEsSXoXxzKWKoZOrRJGnfwwiFKsrpfSafXiDALaXo.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP4389/NPEB01976_00/LhSzFsgbAgjcoMNNCnWTOCCGEsSXoXxzKWKoZOrRJGnfwwiFKsrpfSafXiDALaXo.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP4389-NPEB01976_00-SYBERIA1PSN00001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/icon/dg</String></Pair>
+            </Table>
+            <Table key="link_014">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/r57RfsP0gxGILQ</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/r57RfsP0gxGILQ</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>1GAME0-NPEB01976_00-NPEB019760000001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/icon/df</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="link_013" attr="link_013"/>
+            <Item class="type:x-xmb/xmlnpsignup" key="link_014" attr="link_014"/>
+        </Items>
+    </View>
+    <View id="NPEB02016_001">
+        <Attributes>
+            <Table key="link_003">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP4389/NPEB02016_00/EP4389-NPEB02016_00-SYBERIA2PSN00001_bg_1_2de12123f5d503f87cb61dddff8bd2a8873dea6d.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP4389/NPEB02016_00/EP4389-NPEB02016_00-SYBERIA2PSN00001_bg_1_2de12123f5d503f87cb61dddff8bd2a8873dea6d.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP4389-NPEB02016_00-SYBERIA2PSN00001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/icon/dg</String></Pair>
+            </Table>
+            <Table key="link_004">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/-Pc691BU3LI6Qw</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/-Pc691BU3LI6Qw</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>1GAME0-NPEB02016_00-NPEB020160000001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/icon/df</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="link_003" attr="link_003"/>
+            <Item class="type:x-xmb/xmlnpsignup" key="link_004" attr="link_004"/>
+        </Items>
+    </View>
+
+﻿</XMBML>

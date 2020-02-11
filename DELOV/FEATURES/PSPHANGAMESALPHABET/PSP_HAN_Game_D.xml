@@ -1,0 +1,21 @@
+<XMBML version="1.0">
+    <View id="pkg_items">
+        <Attributes>
+            <Table key="SLUS00128_002">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/SLUS00128.PNG</String></Pair>
+                <Pair key="title"><String>D</String></Pair>
+                <Pair key="info"><String>Игра и Патч: 1 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="SLUS00128_002"
+                attr="SLUS00128_002"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/FEATURES/PSPHANGAMESALPHABET/pspx_D_lnk.xml#SLUS00128_002"
+            />
+        </Items>
+    </View>
+
+</XMBML>

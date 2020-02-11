@@ -1,0 +1,27 @@
+﻿<XMBML version="1.0">
+    <View id="NPEB00934_018">
+        <Attributes>
+            <Table key="link_036">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP1001/NPEB00934_00/kXTcdxapfsNjcmtYOCWITGRWJOHgOKSJVUrufpKQRoqBBiMBWWVWolmeCyUByBdh.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP1001/NPEB00934_00/kXTcdxapfsNjcmtYOCWITGRWJOHgOKSJVUrufpKQRoqBBiMBWWVWolmeCyUByBdh.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP1001-NPEB00934_00-THEDARKNESSIIPSN</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/icon/dg</String></Pair>
+            </Table>
+            <Table key="link_037">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/UQzeHCT910Uacg</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/UQzeHCT910Uacg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>1GAME0-NPEB00934_00-NPEB009340000001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/icon/df</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="link_036" attr="link_036"/>
+            <Item class="type:x-xmb/xmlnpsignup" key="link_037" attr="link_037"/>
+        </Items>
+    </View>
+
+﻿</XMBML>

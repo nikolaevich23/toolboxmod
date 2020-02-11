@@ -1,0 +1,362 @@
+<XMBML version="1.0">
+    <View id="NPEB01396_003">
+        <Attributes>
+            <Table key="link_003">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/kUrLo4Xepf7szQ</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/kUrLo4Xepf7szQ</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>1GAME0-NPEB01396_00-NPEB013960000001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/icon/package_download</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="link_003" attr="link_003"/>
+        </Items>
+    </View>
+    <View id="BLES01697_003">
+        <Attributes>
+            <Table key="link_003">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/LnxdAvsjuFd-Aw</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/LnxdAvsjuFd-Aw</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>2PATCH-BLES01697_00-BLES016970000001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/icon/package_download</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="link_003" attr="link_003"/>
+        </Items>
+    </View>
+    <View id="BLES01667_005">
+        <Attributes>
+            <Table key="link_005">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/mzmHieJk538Zqw</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/mzmHieJk538Zqw</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>2PATCH-BLES01667_00-AC3TITLEUPDATE01</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/icon/package_download</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="link_005" attr="link_005"/>
+        </Items>
+    </View>
+
+    <View id="NPEB00600_016">
+        <Attributes>
+            <Table key="link_016">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/klHRJAHtGrCpIw</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/klHRJAHtGrCpIw</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>1GAME0-NPEB00600_00-NPEB006000000001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/icon/package_download</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="link_016" attr="link_016"/>
+        </Items>
+    </View>
+
+    <View id="NPEB00880_017">
+        <Attributes>
+            <Table key="link_017">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/d3IR53rIdBFmBw</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/d3IR53rIdBFmBw</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>1GAME0-NPEB00880_00-ACRDIGITALVER001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/icon/package_download</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="link_017" attr="link_017"/>
+        </Items>
+    </View>
+
+    <View id="NPUB30826_021">
+        <Attributes>
+            <Table key="link_021">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/wlajAWb0i3IW2Q</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/wlajAWb0i3IW2Q</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>1GAME0-NPUB30826_00-AC3DIGITALPSN001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/icon/package_download</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="link_021" attr="link_021"/>
+        </Items>
+    </View>
+    <View id="BLES01393_000">
+        <Attributes>
+            <Table key="link_000">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/Lmb8C7DkFKYSrw</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/Lmb8C7DkFKYSrw</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>2PATCH-BLES01393_00-BLES013930000001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/icon/package_download</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="link_000" attr="link_000"/>
+        </Items>
+    </View>
+    <View id="NPEB02065_017">
+        <Attributes>
+            <Table key="link_017">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/wbrcLxaCVvg8Ag</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/wbrcLxaCVvg8Ag</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>1GAME0-NPEB02065_00-ACCDIGITALPS3001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/icon/package_download</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="link_017" attr="link_017"/>
+        </Items>
+    </View>
+    <View id="BLES00586_002">
+        <Attributes>
+            <Table key="link_002">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/yN8uTipIepN67g</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/yN8uTipIepN67g</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>2PATCH-BLES00586_00-BLES005860000001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/icon/package_download</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="link_002" attr="link_002"/>
+        </Items>
+    </View>
+    <View id="BLES01770_001">
+        <Attributes>
+            <Table key="link_001">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/mqPhQw2aMois2g</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/mqPhQw2aMois2g</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>2PATCH-BLES01770_00-BLES017700000001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/icon/package_download</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="link_001" attr="link_001"/>
+        </Items>
+    </View>
+    <View id="BLUS30232_003">
+        <Attributes>
+            <Table key="link_003">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/yEFEhDoGUV7t4g</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/yEFEhDoGUV7t4g</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>2PATCH-BLUS30232_00-BLUS302320000001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/icon/package_download</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="link_003" attr="link_003"/>
+        </Items>
+    </View>
+
+    <View id="BLES00659_004">
+        <Attributes>
+            <Table key="link_004">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/jVKyP1x7vIIhvg</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/jVKyP1x7vIIhvg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>2PATCH-BLES00659_00-BLES006590000001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/icon/package_download</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="link_004" attr="link_004"/>
+        </Items>
+    </View>
+
+    <View id="BLES01763_005">
+        <Attributes>
+            <Table key="link_005">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/SEsHCRYbR7vdkA</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/SEsHCRYbR7vdkA</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>2PATCH-BLES01763_00-BLES017630000001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/icon/package_download</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="link_005" attr="link_005"/>
+        </Items>
+    </View>
+
+    <View id="BLUS30057_006">
+        <Attributes>
+            <Table key="link_006">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/uVbnbNE8N3lGNQ</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/uVbnbNE8N3lGNQ</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>2PATCH-BLUS30057_00-BLUS300570000001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/icon/package_download</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="link_006" attr="link_006"/>
+        </Items>
+    </View>
+
+    <View id="BLES00911_007">
+        <Attributes>
+            <Table key="link_007">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/yff8xMhrKzVT4g</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/yff8xMhrKzVT4g</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>2PATCH-BLES00911_00-AC2TITLEUPDATE01</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/icon/package_download</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="link_007" attr="link_007"/>
+        </Items>
+    </View>
+
+    <View id="BLES00669_008">
+        <Attributes>
+            <Table key="link_008">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/yprEs9xkELuw1A</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/yprEs9xkELuw1A</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>2PATCH-BLES00669_00-BLES006690000001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/icon/package_download</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="link_008" attr="link_008"/>
+        </Items>
+    </View>
+
+    <View id="NPEB00462_009">
+        <Attributes>
+            <Table key="link_009">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/q88p7455Obzh0Q</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/q88p7455Obzh0Q</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>1GAME0-NPEB00462_00-NPEB004620000001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/icon/package_download</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="link_009" attr="link_009"/>
+        </Items>
+    </View>
+
+    <View id="BLES01669_010">
+        <Attributes>
+            <Table key="link_010">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/N426K53N3b5YUg</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/N426K53N3b5YUg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>2PATCH-BLES01669_00-AC3TITLEUPDATE01</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/icon/package_download</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="link_010" attr="link_010"/>
+        </Items>
+    </View>
+
+    <View id="BLES01883_011">
+        <Attributes>
+            <Table key="link_011">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/vjc1sPiD2w04Qg</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/vjc1sPiD2w04Qg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>2PATCH-BLES01883_00-BLES018830000001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/icon/package_download</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="link_011" attr="link_011"/>
+        </Items>
+    </View>
+
+    <View id="BLES01467_012">
+        <Attributes>
+            <Table key="link_012">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/mF2U8_jNvafmVw</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/mF2U8_jNvafmVw</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>2PATCH-BLES01467_00-BLES014670000001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/icon/package_download</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="link_012" attr="link_012"/>
+        </Items>
+    </View>
+
+    <View id="BLES02062_013">
+        <Attributes>
+            <Table key="link_013">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/1yR8X556CJislw</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/1yR8X556CJislw</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>2PATCH-BLES02062_00-ACCTITLEUPDATE01</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/icon/package_download</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="link_013" attr="link_013"/>
+        </Items>
+    </View>
+
+    <View id="NPEB00393_014">
+        <Attributes>
+            <Table key="link_014">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/aY5p0rQ_K-idzw</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/aY5p0rQ_K-idzw</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>1HGAME-NPEB00393_00-ASSASSIN0S0NPEB0</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/icon/package_download</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="link_014" attr="link_014"/>
+        </Items>
+    </View>
+
+    <View id="BLUS30721_015">
+        <Attributes>
+            <Table key="link_015">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/2JFFJYtDRhMQ4A</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/2JFFJYtDRhMQ4A</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>2PATCH-BLUS30721_00-BLUS307210000001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/icon/package_download</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="link_015" attr="link_015"/>
+        </Items>
+    </View>
+</XMBML>

@@ -1,0 +1,188 @@
+<XMBML version="1.0">
+    <View id="pkg_items">
+        <Attributes>
+			<Table key="BLES02019_007">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/PSNEU/Saints Row IV</String></Pair>
+                <Pair key="title"><String>Saints Row IV - The Full Package</String></Pair>
+                <Pair key="info"><String>BLES02019. Чит к версии: 01.00</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+			<Table key="BLES01236_014">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/BLES01236.PNG</String></Pair>
+                <Pair key="title"><String>SONIC GENERATIONS</String></Pair>
+                <Pair key="info"><String>BLES01236. Чит к версии: 01.01</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="BLUS30244_021">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/BLUS30244.PNG</String></Pair>
+                <Pair key="title"><String>SONIC UNLEASHED</String></Pair>
+                <Pair key="info"><String>BLUS30244. Чит к версии: 01.02</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="BLES01527_023">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/BLES01527.PNG</String></Pair>
+                <Pair key="title"><String>Sniper Ghost Warrior 2</String></Pair>
+                <Pair key="info"><String>BLES01527. Чит к версии: 01.01</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+			<Table key="NPEB01002_005">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/PSNEU/Sniper Ghost Warrior 2</String></Pair>
+                <Pair key="title"><String>Sniper Ghost Warrior 2</String></Pair>
+                <Pair key="info"><String>NPEB01002. Чит к версии: 01.01</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="BLES01889_007">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMAGES/IMAGESPS3GAMES/Saints Row IV</String></Pair>
+                <Pair key="title"><String>Saints Row IV</String></Pair>
+                <Pair key="info"><String>BLES01889. Чит к версии: 01.06</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="BLUS30565_013">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMAGES/IMAGESPS3GAME/Silent Hill Downpour</String></Pair>
+                <Pair key="title"><String>Silent Hill Downpour</String></Pair>
+                <Pair key="info"><String>BLUS30565. Чит к версии: 01.01</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="BLUS30810_014">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMAGES/IMAGESPS3GAME/Silent Hill HD Collection</String></Pair>
+                <Pair key="title"><String>Silent Hill HD Collection</String></Pair>
+                <Pair key="info"><String>BLUS30810. Чит к версии: 01.02</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="BLES00560_015">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/BLES00560.PNG</String></Pair>
+                <Pair key="title"><String>Singularity</String></Pair>
+                <Pair key="info"><String>BLES00560. Чит к версии: 01.01</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="BLES01981_016">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMAGES/IMAGESPS3GAME/Sniper Elite 3</String></Pair>
+                <Pair key="title"><String>Sniper Elite 3</String></Pair>
+                <Pair key="info"><String>BLES01981. Чит к версии: 01.04</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPEB01363_017">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/PSNEU/Soul Calibur 5</String></Pair>
+                <Pair key="title"><String>SOULCALIBUR Ⅴ</String></Pair>
+                <Pair key="info"><String>NPEB01363. Чит к версии: 01.00</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="BLES00781_018">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/BLES00781.PNG</String></Pair>
+                <Pair key="title"><String>Split/Second</String></Pair>
+                <Pair key="info"><String>BLES00781. Чит к версии: 01.04</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="BLES00893_019">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMAGES/IMAGESPS3GAMES/Star Wars The Force Unleashed II</String></Pair>
+                <Pair key="title"><String>Star Wars: The Force Unleashed II</String></Pair>
+                <Pair key="info"><String>BLES00893. Чит к версии: 01.01</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="BLES00144_020">
+				<Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMAGES/IMAGESPS3GAMES/Stranglehold</String></Pair>
+                <Pair key="title"><String>STRANGLEHOLD™</String></Pair>
+                <Pair key="info"><String>BLES00144. Чит к версии: 01.20</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+			<Table key="BLES01329_001">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMAGES/IMAGESPS3GAME/The Elder Scrolls V Skyrim</String></Pair>
+                <Pair key="title"><String>Skyrim (The Elder Scrolls V)</String></Pair>
+                <Pair key="info"><String>BLES01329. Чит к версии: 02.09</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="BLES02019_007"
+                attr="BLES02019_007"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_S_lnk.xml#BLES02019_007"
+            />
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="BLES01236_014"
+                attr="BLES01236_014"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_S_lnk.xml#BLES01236_014"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="BLUS30244_021"
+                attr="BLUS30244_021"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_S_lnk.xml#BLUS30244_021"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="BLES01527_023"
+                attr="BLES01527_023"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_S_lnk.xml#BLES01527_023"
+            />
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPEB01002_005"
+                attr="NPEB01002_005"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_S_lnk.xml#NPEB01002_005"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="BLES01889_007"
+                attr="BLES01889_007"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_S_lnk.xml#BLES01889_007"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="BLUS30565_013"
+                attr="BLUS30565_013"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_S_lnk.xml#BLUS30565_013"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="BLUS30810_014"
+                attr="BLUS30810_014"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_S_lnk.xml#BLUS30810_014"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="BLES00560_015"
+                attr="BLES00560_015"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_S_lnk.xml#BLES00560_015"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="BLES01981_016"
+                attr="BLES01981_016"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_S_lnk.xml#BLES01981_016"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPEB01363_017"
+                attr="NPEB01363_017"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_S_lnk.xml#NPEB01363_017"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="BLES00781_018"
+                attr="BLES00781_018"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_S_lnk.xml#BLES00781_018"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="BLES00893_019"
+                attr="BLES00893_019"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_S_lnk.xml#BLES00893_019"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="BLES00144_020"
+                attr="BLES00144_020"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_S_lnk.xml#BLES00144_020"
+            />
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="BLES01329_001"
+                attr="BLES01329_001"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_S_lnk.xml#BLES01329_001"
+            />
+        </Items>
+    </View>
+</XMBML>

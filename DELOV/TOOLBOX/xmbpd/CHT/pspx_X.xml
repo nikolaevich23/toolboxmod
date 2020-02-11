@@ -1,0 +1,20 @@
+<XMBML version="1.0">
+    <View id="pkg_items">
+        <Attributes>
+            <Table key="BLUS31180_039">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/BLUS31180.PNG</String></Pair>
+                <Pair key="title"><String>XCOM: Enemy Within</String></Pair>
+                <Pair key="info"><String>BLUS31180. Чит к версии: 01.01</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="BLUS31180_039"
+                attr="BLUS31180_039"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_X_lnk.xml#BLUS31180_039"
+            />
+        </Items>
+    </View>
+</XMBML>

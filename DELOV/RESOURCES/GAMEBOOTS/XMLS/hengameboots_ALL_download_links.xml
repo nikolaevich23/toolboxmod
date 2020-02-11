@@ -1,0 +1,116 @@
+<XMBML version="1.0">
+ 
+<!-- Main Items > External Content > Coldboot Downloader Items > Coldboots Download Links -->
+
+	<View id="item_001_main">
+		<Attributes>
+			<Table key="game1_item">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://www.dropbox.com/s/s8kfc5mue0qrw8s/blue-bug-alt_sign.pkg?dl=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/s8kfc5mue0qrw8s/blue-bug-alt_sign.pkg?dl=1</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>CUSTOM-INSTALLER_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/downloader</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="game1_item" attr="game1_item"/>
+		</Items> 
+	</View>
+
+	<View id="item_002_main">
+		<Attributes>
+			<Table key="game2_item">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://www.dropbox.com/s/1xtntogcrzqjwgo/green-bug-han.pkg?dl=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/1xtntogcrzqjwgo/green-bug-han.pkg?dl=1</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>CUSTOM-INSTALLER_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/downloader</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="game2_item" attr="game2_item"/>
+		</Items> 
+	</View>
+
+	<View id="item_003_main">
+		<Attributes>
+			<Table key="game3_item">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://www.dropbox.com/s/vd2j9lqs2tay9j9/green-bug-han-ps3xploit-inside.pkg?dl=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/vd2j9lqs2tay9j9/green-bug-han-ps3xploit-inside.pkg?dl=1</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>CUSTOM-INSTALLER_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/downloader</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="game3_item" attr="game3_item"/>
+		</Items> 
+	</View>
+
+	<View id="item_004_main">
+		<Attributes>
+			<Table key="game4_item">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://www.dropbox.com/s/14kp2ir5ssllgbt/mr-ota-final.pkg?dl=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/14kp2ir5ssllgbt/mr-ota-final.pkg?dl=1</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>CUSTOM-INSTALLER_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/downloader</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="game4_item" attr="game4_item"/>
+		</Items> 
+	</View>
+
+	<View id="item_005_main">
+		<Attributes>
+			<Table key="game5_item">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://www.dropbox.com/s/orzw6f9vmbwbez6/mr-ota-other.pkg?dl=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/orzw6f9vmbwbez6/mr-ota-other.pkg?dl=1</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>CUSTOM-INSTALLER_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/downloader</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="game5_item" attr="game5_item"/>
+		</Items> 
+	</View>
+
+	<View id="item_006_main">
+		<Attributes>
+			<Table key="game6_item">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://www.dropbox.com/s/f15rbmyvaehkdpr/gameboot-ps4pro.pkg?dl=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/f15rbmyvaehkdpr/gameboot-ps4pro.pkg?dl=1</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>CUSTOM-INSTALLER_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/downloader</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="game6_item" attr="game6_item"/>
+		</Items> 
+	</View>
+
+	<View id="item_007_main">
+		<Attributes>
+			<Table key="game7_item">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://www.dropbox.com/s/bqlcx6m3mdqng69/Original.pkg?dl=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/bqlcx6m3mdqng69/Original.pkg?dl=1</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>CUSTOM-INSTALLER_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/downloader</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="game7_item" attr="game7_item"/>
+		</Items> 
+	</View>	
+</XMBML>

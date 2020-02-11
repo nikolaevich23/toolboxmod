@@ -1,0 +1,336 @@
+<XMBML version="1.0">
+ 
+<!-- Main Items > External Content > Wave Downloader Items -->
+ 
+	<View id="wave_downloader_items">
+		<Attributes>
+			<Table key="wave1">
+				<Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/inj_wave</String></Pair>
+				<Pair key="title"><String>2in1_Custom_RedWaves_qrc</String></Pair>
+				<Pair key="info"><String>Файл: lines.qrc</String></Pair>
+			</Table>
+			<Table key="wave2">
+				<Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/inj_wave</String></Pair>
+				<Pair key="title"><String>Blue_Purple_2_qrc</String></Pair>
+				<Pair key="info"><String>Файл: lines.qrc</String></Pair>
+			</Table>
+			<Table key="wave3">
+				<Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/inj_wave</String></Pair>
+				<Pair key="title"><String>GreenYellowWAVEv2_qrc</String></Pair>
+				<Pair key="info"><String>Файл: lines.qrc</String></Pair>
+			</Table>
+			<Table key="wave4">
+				<Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/inj_wave</String></Pair>
+				<Pair key="title"><String>GreenyellowWidewave_qrc</String></Pair>
+				<Pair key="info"><String>Файл: lines.qrc</String></Pair>
+			</Table>
+			<Table key="wave5">
+				<Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/inj_wave</String></Pair>
+				<Pair key="title"><String>ZebraWideRed_qrc</String></Pair>
+				<Pair key="info"><String>Файл: lines.qrc</String></Pair>
+			</Table>
+			<Table key="wave6">
+				<Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/inj_wave</String></Pair>
+				<Pair key="title"><String>Zebra_Transition_qrc</String></Pair>
+				<Pair key="info"><String>Файл: lines.qrc</String></Pair>
+			</Table>
+			<Table key="wave7">
+				<Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/inj_wave</String></Pair>
+				<Pair key="title"><String>Hybrid_WAVE_qrc</String></Pair>
+				<Pair key="info"><String>Файл: lines.qrc</String></Pair>
+			</Table>
+			<Table key="wave8">
+				<Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/inj_wave</String></Pair>
+				<Pair key="title"><String>ZebraWideBluepurple_qrc</String></Pair>
+				<Pair key="info"><String>Файл: lines.qrc</String></Pair>
+			</Table>
+			<Table key="wave9">
+				<Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/inj_wave</String></Pair>
+				<Pair key="title"><String>lines-ps4pro-v1</String></Pair>
+				<Pair key="info"><String>Файл: lines.qrc</String></Pair>
+			</Table>
+			<Table key="wave10">
+				<Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/inj_wave</String></Pair>
+				<Pair key="title"><String>WaveGreenToBlue_qrc</String></Pair>
+				<Pair key="info"><String>Файл: lines.qrc</String></Pair>
+			</Table>
+			<Table key="wave11">
+				<Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/inj_wave</String></Pair>
+				<Pair key="title"><String>WaveRedToPurple_qrc</String></Pair>
+				<Pair key="info"><String>Файл: lines.qrc</String></Pair>
+			</Table>
+			<Table key="wave12">
+				<Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/inj_wave</String></Pair>
+				<Pair key="title"><String>Original_lines_qrc</String></Pair>
+				<Pair key="info"><String>Файл: lines.qrc</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>			
+			<Query 
+				class="type:x-xmb/folder-pixmap"
+				key="wave1" 
+				attr="wave1"
+				src="#wave1_main"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap"
+				key="wave2" 
+				attr="wave2"
+				src="#wave2_main"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap"
+				key="wave3" 
+				attr="wave3"
+				src="#wave3_main"
+				/>	
+			<Query 
+				class="type:x-xmb/folder-pixmap"
+				key="wave4" 
+				attr="wave4"
+				src="#wave4_main"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap"
+				key="wave5" 
+				attr="wave5"
+				src="#wave5_main"
+				/>				
+			<Query 
+				class="type:x-xmb/folder-pixmap"
+				key="wave6" 
+				attr="wave6"
+				src="#wave6_main"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap"
+				key="wave7" 
+				attr="wave7"
+				src="#wave7_main"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap"
+				key="wave8" 
+				attr="wave8"
+				src="#wave8_main"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap"
+				key="wave9" 
+				attr="wave9"
+				src="#wave9_main"
+				/>	
+			<Query 
+				class="type:x-xmb/folder-pixmap"
+				key="wave10" 
+				attr="wave10"
+				src="#wave10_main"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap"
+				key="wave11" 
+				attr="wave11"
+				src="#wave11_main"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap"
+				key="wave12" 
+				attr="wave12"
+				src="#wave12_main"
+				/>
+		</Items>
+	</View>
+	
+<!-- waves -->			
+		<View id="wave1_main">
+		<Attributes>
+			<Table key="wave1_item">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://www.dropbox.com/s/2fdjtx0ezixndvt/2in1_Custom_RedWaves_qrc.pkg?dl=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/2fdjtx0ezixndvt/2in1_Custom_RedWaves_qrc.pkg?dl=1</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>CUSTOM-INSTALLER_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/downloader</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="wave1_item" attr="wave1_item"/>
+		</Items> 
+		</View>
+		
+		<View id="wave2_main">
+		<Attributes>
+			<Table key="wave2_item">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://www.dropbox.com/s/71qax138vybi1av/Blue_Purple_2_qrc.pkg?dl=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/71qax138vybi1av/Blue_Purple_2_qrc.pkg?dl=1</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>CUSTOM-INSTALLER_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/downloader</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="wave2_item" attr="wave2_item"/>
+		</Items> 
+		</View>
+		
+		<View id="wave3_main">
+		<Attributes>
+			<Table key="wave3_item">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://www.dropbox.com/s/xvq6f0uhjxe6syf/GreenYellowWAVEv2_qrc.pkg?dl=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/xvq6f0uhjxe6syf/GreenYellowWAVEv2_qrc.pkg?dl=1</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>CUSTOM-INSTALLER_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/downloader</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="wave3_item" attr="wave3_item"/>
+		</Items> 
+		</View>
+		
+		<View id="wave4_main">
+		<Attributes>
+			<Table key="wave4_item">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://www.dropbox.com/s/vzz1kjtbrt3m5c5/GreenyellowWidewave_qrc.pkg?dl=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/vzz1kjtbrt3m5c5/GreenyellowWidewave_qrc.pkg?dl=1</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>CUSTOM-INSTALLER_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/downloader</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="wave4_item" attr="wave4_item"/>
+		</Items> 
+		</View>
+		
+		<View id="wave5_main">
+		<Attributes>
+			<Table key="wave5_item">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://www.dropbox.com/s/cnvoxnuhic9v8ul/ZebraWideRed_qrc.pkg?dl=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/cnvoxnuhic9v8ul/ZebraWideRed_qrc.pkg?dl=1</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>CUSTOM-INSTALLER_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/downloader</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="wave5_item" attr="wave5_item"/>
+		</Items> 
+		</View>
+		
+		<View id="wave6_main">
+		<Attributes>
+			<Table key="wave6_item">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://www.dropbox.com/s/19rcpsbuv7275z8/Zebra_Transition_qrc.pkg?dl=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/19rcpsbuv7275z8/Zebra_Transition_qrc.pkg?dl=1</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>CUSTOM-INSTALLER_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/downloader</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="wave6_item" attr="wave6_item"/>
+		</Items> 
+		</View>
+		
+		<View id="wave7_main">
+		<Attributes>
+			<Table key="wave7_item">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://www.dropbox.com/s/hvvouje4wc3di3p/Hybrid_WAVE_qrc.pkg?dl=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/hvvouje4wc3di3p/Hybrid_WAVE_qrc.pkg?dl=1</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>CUSTOM-INSTALLER_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/downloader</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="wave7_item" attr="wave7_item"/>
+		</Items> 
+		</View>
+		
+		<View id="wave8_main">
+		<Attributes>
+			<Table key="wave8_item">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://www.dropbox.com/s/4vtf65bogvn0qm2/ZebraWideBluepurple_qrc.pkg?dl=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/4vtf65bogvn0qm2/ZebraWideBluepurple_qrc.pkg?dl=1</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>CUSTOM-INSTALLER_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/downloader</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="wave8_item" attr="wave8_item"/>
+		</Items> 
+		</View>
+		
+		<View id="wave9_main">
+		<Attributes>
+			<Table key="wave9_item">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://www.dropbox.com/s/qe9r20uglxao3ta/lines-ps4pro-v1.pkg?dl=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/qe9r20uglxao3ta/lines-ps4pro-v1.pkg?dl=1</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>CUSTOM-INSTALLER_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/downloader</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="wave9_item" attr="wave9_item"/>
+		</Items> 
+		</View>	
+
+		<View id="wave10_main">
+		<Attributes>
+			<Table key="wave10_item">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://www.dropbox.com/s/rw8gj0xa43gfdbm/WaveGreenToBlue_qrc.pkg?dl=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/rw8gj0xa43gfdbm/WaveGreenToBlue_qrc.pkg?dl=1</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>CUSTOM-INSTALLER_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/downloader</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="wave10_item" attr="wave10_item"/>
+		</Items> 
+		</View>	
+
+		<View id="wave11_main">
+		<Attributes>
+			<Table key="wave11_item">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://www.dropbox.com/s/ohr3jq0qf0jg2h4/WaveRedToPurple_qrc.pkg?dl=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/ohr3jq0qf0jg2h4/WaveRedToPurple_qrc.pkg?dl=1</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>CUSTOM-INSTALLER_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/downloader</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="wave11_item" attr="wave11_item"/>
+		</Items> 
+		</View>	
+		
+		<View id="wave12_main">
+		<Attributes>
+			<Table key="wave12_item">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://www.dropbox.com/s/2sby0tccsax38ve/Original_lines_qrc.pkg?dl=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/2sby0tccsax38ve/Original_lines_qrc.pkg?dl=1</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>CUSTOM-INSTALLER_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/downloader</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="wave12_item" attr="wave12_item"/>
+		</Items> 
+		</View>
+</XMBML>

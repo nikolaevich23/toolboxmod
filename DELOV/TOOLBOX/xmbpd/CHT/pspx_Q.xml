@@ -1,0 +1,20 @@
+<XMBML version="1.0">
+    <View id="pkg_items">
+        <Attributes>
+            <Table key="BLES00868_016">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/BLES00868.PNG</String></Pair>
+                <Pair key="title"><String>QUANTUM THEORY</String></Pair>
+                <Pair key="info"><String>BLES00868. Чит к версии: 01.00</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="BLES00868_016"
+                attr="BLES00868_016"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_Q_lnk.xml#BLES00868_016"
+            />
+        </Items>
+    </View>
+</XMBML>

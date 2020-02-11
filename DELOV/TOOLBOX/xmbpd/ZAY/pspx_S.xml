@@ -1,0 +1,45 @@
+<XMBML version="1.0">
+    <View id="pkg_items">
+        <Attributes>
+            <Table key="NPEB00986_000">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/PSNEU/Spec Ops - The Line</String></Pair>
+                <Pair key="title"><String>Spec Ops: The Line</String></Pair>
+                <Pair key="info"><String>Игра и Патч: 3 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+			<Table key="NPEB01976_009">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/PSNEU/Syberia</String></Pair>
+                <Pair key="title"><String>Syberia</String></Pair>
+                <Pair key="info"><String>NPEB01976. Игра и Патч: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPEB02016_001">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/PSNEU/Syberia II</String></Pair>
+                <Pair key="title"><String>Syberia 2</String></Pair>
+                <Pair key="info"><String>Игра и Патч: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPEB00986_000"
+                attr="NPEB00986_000"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/ZAY/pspx_S_lnk.xml#NPEB00986_000"
+            />
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPEB01976_009"
+                attr="NPEB01976_009"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/ZAY/pspx_S_lnk.xml#NPEB01976_009"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPEB02016_001"
+                attr="NPEB02016_001"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/ZAY/pspx_S_lnk.xml#NPEB02016_001"
+            />
+        </Items>
+    </View>
+
+</XMBML>

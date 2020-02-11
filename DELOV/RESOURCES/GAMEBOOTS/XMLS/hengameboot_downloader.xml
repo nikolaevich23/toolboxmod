@@ -1,0 +1,88 @@
+<XMBML version="1.0">
+ 
+<!-- Main Items > External Content > Coldboot Downloader Items -->
+ 
+	<View id="gameboot_downloader_items">
+		<Attributes>
+			<Table key="game1">
+				<Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/inj_coldboot</String></Pair>
+				<Pair key="title"><String>blue-bug-alt</String></Pair>
+				<Pair key="info"><String>Скачиваем файлы в /dev_hdd0/game/HENTOOLBX/USRDIR/files для установки</String></Pair>
+			</Table>
+			<Table key="game2">
+				<Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/inj_coldboot</String></Pair>
+				<Pair key="title"><String>green-bug-han2</String></Pair>
+				<Pair key="info"><String>Скачиваем файлы в /dev_hdd0/game/HENTOOLBX/USRDIR/files для установки</String></Pair>
+			</Table>
+			<Table key="game3">
+				<Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/inj_coldboot</String></Pair>
+				<Pair key="title"><String>green-bug-han-ps3xploit-inside</String></Pair>
+				<Pair key="info"><String>Скачиваем файлы в /dev_hdd0/game/HENTOOLBX/USRDIR/files для установки</String></Pair>
+			</Table>
+			<Table key="game4">
+				<Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/inj_coldboot</String></Pair>
+				<Pair key="title"><String>mr-ota-final</String></Pair>
+				<Pair key="info"><String>Скачиваем файлы в /dev_hdd0/game/HENTOOLBX/USRDIR/files для установки</String></Pair>
+			</Table>
+			<Table key="game5">
+				<Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/inj_coldboot</String></Pair>
+				<Pair key="title"><String>mr-ota-other</String></Pair>
+				<Pair key="info"><String>Скачиваем файлы в /dev_hdd0/game/HENTOOLBX/USRDIR/files для установки</String></Pair>
+			</Table>
+			<Table key="game6">
+				<Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/inj_coldboot</String></Pair>
+				<Pair key="title"><String>gameboot-ps4pro</String></Pair>
+				<Pair key="info"><String>Скачиваем файлы в /dev_hdd0/game/HENTOOLBX/USRDIR/files для установки</String></Pair>
+			</Table>
+			<Table key="game7">
+				<Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/inj_coldboot</String></Pair>
+				<Pair key="title"><String>Оригинальный файл</String></Pair>
+				<Pair key="info"><String>Скачиваем файлы в /dev_hdd0/game/HENTOOLBX/USRDIR/files для установки</String></Pair>
+			</Table>
+		</Attributes>		
+		<Items>
+			<Query 
+				class="type:x-xmb/folder-pixmap"
+				key="game1" 
+				attr="game1" 
+				src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/RESOURCES/GAMEBOOTS/XMLS/hengameboots_ALL_download_links.xml#item_001_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap"
+				key="game2" 
+				attr="game2" 
+				src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/RESOURCES/GAMEBOOTS/XMLS/hengameboots_ALL_download_links.xml#item_002_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap"
+				key="game3" 
+				attr="game3" 
+				src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/RESOURCES/GAMEBOOTS/XMLS/hengameboots_ALL_download_links.xml#item_003_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap"
+				key="game4" 
+				attr="game4"
+				src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/RESOURCES/GAMEBOOTS/XMLS/hengameboots_ALL_download_links.xml#item_004_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap"
+				key="game5" 
+				attr="game5" 
+				src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/RESOURCES/GAMEBOOTS/XMLS/hengameboots_ALL_download_links.xml#item_005_main" 
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap"
+				key="game6" 
+				attr="game6" 
+				src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/RESOURCES/GAMEBOOTS/XMLS/hengameboots_ALL_download_links.xml#item_006_main"  
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap"
+				key="game7" 
+				attr="game7" 
+				src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/RESOURCES/GAMEBOOTS/XMLS/hengameboots_ALL_download_links.xml#item_007_main" 
+			/>			
+		</Items>
+	</View>
+</XMBML>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<XMBML version="1.0">
+	<View id="root">
+		<Items>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="soft_reboot" attr="soft_reboot" 
+				src="#soft_reboot"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="shut_down" attr="shut_down" 
+				src="#shut_down"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="user_provider_0"
+				src="user://localhost/create"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="user_provider_1"
+				src="user://localhost/users"
+				/>
+		</Items>
+	</View>
+
+	<View id="root_power_only">
+		<Items>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_poweroff"
+				src="#seg_poweroff"
+				/>
+		</Items>
+	</View>
+	
+	<View id="seg_poweroff">
+		<Items>
+			<Item class="type:x-xmb/xmlpoweroff" key="poweroff" />
+		</Items>
+	</View>
+	
+	
+	<View id="shut_down">
+		<Attributes>
+			<Table key="shut">
+				<Pair key="icon"><String>/dev_flash/vsh/resource/explore/icon/power.png</String></Pair>		
+				<Pair key="title"><String>Turn Off System</String></Pair>			
+				<Pair key="module_name"><String>poweroff_plugin</String></Pair>
+				<Pair key="module_action"><String></String></Pair>	
+				</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/module-action" key="shut" attr="shut"/>
+		</Items>
+		
+	</View>
+	
+	<View id="soft_reboot">
+		<Attributes>
+			<Table key="soft">
+				<Pair key="icon"><String>/dev_flash/vsh/resource/explore/icon/power.png</String></Pair>		
+				<Pair key="title"><String>Soft Reboot</String></Pair>			
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>soft_reboot_action</String></Pair>					
+			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/module-action" key="soft" attr="soft"/>
+		</Items>
+	</View>			
+	
+</XMBML>

@@ -1,0 +1,21 @@
+<XMBML version="1.0">
+    <View id="pkg_items">
+        <Attributes>
+            <Table key="NPEB00124_017">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/PSNEU/Command & Conquer - Red Alert 3 Commander's Challenge</String></Pair>
+                <Pair key="title"><String>Red Alert™ 3 Commander's Challenge™</String></Pair>
+                <Pair key="info"><String>Игра и Патч: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPEB00124_017"
+                attr="NPEB00124_017"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/ZAY/pspx_R_lnk.xml#NPEB00124_017"
+            />
+        </Items>
+    </View>
+
+</XMBML>

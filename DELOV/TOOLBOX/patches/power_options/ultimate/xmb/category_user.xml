@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<XMBML version="1.0">
+	<View id="root">
+		<Items>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="power_options"
+				src="#power_options"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="user_provider_0"
+				src="user://localhost/create"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="user_provider_1"
+				src="user://localhost/users"
+				/>
+		</Items>
+	</View>
+
+	<View id="root_power_only">
+		<Items>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_poweroff"
+				src="#seg_poweroff"
+				/>
+		</Items>
+	</View>
+	
+	<View id="seg_poweroff">
+		<Items>
+			<Item class="type:x-xmb/xmlpoweroff" key="poweroff" />
+		</Items>
+	</View>
+	
+	<View id="power_options">
+		<Attributes>
+			<Table key="options">
+				<Pair key="icon"><String>/dev_flash/vsh/resource/explore/icon/power.png</String></Pair>	
+				<Pair key="title"><String>Power Options</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="child"><String>segment</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="options" attr="options" src="#items"
+				/>
+		</Items>
+	</View>
+	<View id="items">
+		<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="seg_soft_reboot" attr="soft_reboot" src="#soft_reboot"/>	
+			<Query class="type:x-xmb/folder-pixmap" key="seg_hard_reboot" attr="hard_reboot" src="#hard_reboot"/>
+			<Query class="type:x-xmb/folder-pixmap" key="seg_shut_down" attr="shut_down" src="#shut_down"/>			
+			<Query class="type:x-xmb/folder-pixmap" key="reboot_database" attr="reboot_database" src="#seg_reboot_database"/>
+			<Query class="type:x-xmb/folder-pixmap" key="reboot_fs_check" attr="reboot_fs_check" src="#seg_reboot_fs_check"/>
+			<Query class="type:x-xmb/folder-pixmap" key="reboot_recovery" attr="reboot_recovery" src="#seg_reboot_recovery"/>
+		</Items>
+	</View>
+	<View id="shut_down">
+		<Attributes>
+			<Table key="shut">
+				<Pair key="icon"><String>/dev_flash/vsh/resource/explore/icon/power.png</String></Pair>		
+				<Pair key="title"><String>Turn Off System</String></Pair>
+				<Pair key="info"><String>Shuts down the PS3</String></Pair>				
+				<Pair key="module_name"><String>poweroff_plugin</String></Pair>
+				<Pair key="module_action"><String></String></Pair>	
+				</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/module-action" key="shut" attr="shut"/>
+		</Items>
+	</View>
+	
+	<View id="soft_reboot">
+		<Attributes>
+			<Table key="soft">
+				<Pair key="icon"><String>/dev_flash/vsh/resource/explore/icon/power.png</String></Pair>		
+				<Pair key="title"><String>Soft Reboot</String></Pair>
+				<Pair key="info"><String>Reboots LV2 kernel only</String></Pair>				
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>soft_reboot_action</String></Pair>					
+			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/module-action" key="soft" attr="soft"/>
+		</Items>
+	</View>		
+	
+	<View id="hard_reboot">
+		<Attributes>
+			<Table key="hard">
+				<Pair key="icon"><String>/dev_flash/vsh/resource/explore/icon/power.png</String></Pair>		
+				<Pair key="title"><String>Hard Reboot</String></Pair>
+				<Pair key="info"><String>Fully reboots the hardware</String></Pair>				
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>hard_reboot_action</String></Pair>				
+			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/module-action" key="hard" attr="hard"/>
+		</Items>
+	</View>		
+	
+	<View id="seg_reboot_database">
+		<Attributes>
+			<Table key="reboot_database">
+				<Pair key="icon"><String>/dev_flash/vsh/resource/explore/icon/power.png</String></Pair>		
+				<Pair key="title"><String>Reboot into a Database Rebuild</String></Pair>
+				<Pair key="info"><String>Sets rebuild database flag and reboot</String></Pair>				
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>rebuild_db</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>					
+			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/module-action" key="reboot_database" attr="reboot_database"/>
+		</Items>
+	</View>		
+	
+	<View id="seg_reboot_fs_check">
+		<Attributes>
+			<Table key="fs_check">
+				<Pair key="icon"><String>/dev_flash/vsh/resource/explore/icon/power.png</String></Pair>		
+				<Pair key="title"><String>Reboot into a Filesystem Check</String></Pair>
+				<Pair key="info"><String>Sets filesystem check flag and reboots</String></Pair>				
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fs_check</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>					
+			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/module-action" key="fs_check" attr="fs_check"/>
+		</Items>
+	</View>		
+	
+	<View id="seg_reboot_recovery">
+		<Attributes>
+			<Table key="reboot_recovery">
+				<Pair key="icon"><String>/dev_flash/vsh/resource/explore/icon/power.png</String></Pair>		
+				<Pair key="title"><String>Reboot into Recovery Mode</String></Pair>
+				<Pair key="info"><String>Sets recovery mode flag and reboots</String></Pair>				
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>recovory_mode</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>					
+			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/module-action" key="reboot_recovery" attr="reboot_recovery"/>
+		</Items>
+	</View>		
+	
+</XMBML>

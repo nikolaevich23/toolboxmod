@@ -1,0 +1,284 @@
+<XMBML version="1.0">
+    <View id="pkg_items">
+        <Attributes>
+			<Table key="BCES01141_008">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/PSNEU/Ratchet & Clank - All 4 One</String></Pair>
+                <Pair key="title"><String>Ratchet & Clank™: All 4 One (EU)</String></Pair>
+                <Pair key="info"><String>BCES01141. Чит к версии: 01.03</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+			<Table key="BLES01294_000">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMAGES/IMAGESPS3GAME/Red Dead Redemption Game of the Year Edition</String></Pair>
+                <Pair key="title"><String>Red Dead Redemption: Game of the Year Edition</String></Pair>
+                <Pair key="info"><String>BLES01294. Чит к версии: 01.01</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+			<Table key="NPEB02226_011">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/PSNEU/Resident Evil 0 HD Remaster</String></Pair>
+                <Pair key="title"><String>Resident Evil 0</String></Pair>
+                <Pair key="info"><String>NPEB02226. Чит к версии: 01.00</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+			<Table key="NPEB02076_000">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/PSNEU/Resident Evil HD Remaster</String></Pair>
+                <Pair key="title"><String>Resident Evil</String></Pair>
+                <Pair key="info"><String>NPEB02076. Чит к версии: 01.00</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="BLES01288_015">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/BLES01288.PNG</String></Pair>
+                <Pair key="title"><String>RESIDENT EVIL™ Operation Raccoon City - Downloadable Content</String></Pair>
+                <Pair key="info"><String>BLES01288. Чит к версии: 01.03</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+			<Table key="NPUB31518_019">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/PSNUS/rer2t</String></Pair>
+                <Pair key="title"><String>RESIDENT EVIL REVELATIONS 2</String></Pair>
+                <Pair key="info"><String>NPUB31518. Чит к версии: 01.04</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="BLES01701_017">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/BLES01701.PNG</String></Pair>
+                <Pair key="title"><String>Remember Me™</String></Pair>
+                <Pair key="info"><String>BLES01701. Чит к версии: 01.00</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPEB00985_018">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/PSNEU/Resident Evil Operation Raccoon City</String></Pair>
+                <Pair key="title"><String>RESIDENT EVIL™ Operation Raccoon City</String></Pair>
+                <Pair key="info"><String>NPEB00985. Чит к версии: 01.03</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+			<Table key="NPEB00817_000">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/PSNEU/Resident Evil - The Umbrella Chronicles</String></Pair>
+                <Pair key="title"><String>resident evil THE UMBRELLA CHRONICLES</String></Pair>
+                <Pair key="info"><String>NPEB00817. Чит к версии: 01.00</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="BLES01426_000">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMAGES/IMAGESPS3GAME/RAGE</String></Pair>
+                <Pair key="title"><String>RAGE® Additional Content - RUS</String></Pair>
+                <Pair key="info"><String>BLES01426. Чит к версии: 01.02</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPEB00818_001">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/PSNEU/Rayman Origins</String></Pair>
+                <Pair key="title"><String>Rayman® Origins</String></Pair>
+                <Pair key="info"><String>NPEB00818. Чит к версии: 01.00</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPEB00833_002">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/PSNEU/Red Dead Redemption</String></Pair>
+                <Pair key="title"><String>Red Dead Redemption</String></Pair>
+                <Pair key="info"><String>NPEB00833. Чит к версии: 01.02</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="BLUS30585_003">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMAGES/IMAGESPS3GAME/Red Faction Armageddon</String></Pair>
+                <Pair key="title"><String>Red Faction: Armageddon</String></Pair>
+                <Pair key="info"><String>BLUS30585. Чит к версии: 01.01</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="BLES00498_004">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMAGES/IMAGESPS3GAME/Red Faction Guerrilla</String></Pair>
+                <Pair key="title"><String>Red Faction: Guerrilla</String></Pair>
+                <Pair key="info"><String>BLES00498. Чит к версии: 01.04</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="BLUS30491_005">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/BLUS30491.PNG</String></Pair>
+                <Pair key="title"><String>RESIDENT EVIL 5 GOLD EDITION</String></Pair>
+                <Pair key="info"><String>BLUS30491. Чит к версии: 01.01</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPEB00687_006">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/PSNEU/Resident Evil 5 - Gold Edition</String></Pair>
+                <Pair key="title"><String>RESIDENT EVIL 5 GOLD EDITION</String></Pair>
+                <Pair key="info"><String>NPEB00687. Чит к версии: 01.00</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="BLES01465_007">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMAGES/IMAGESPS3GAME/Resident Evil 6</String></Pair>
+                <Pair key="title"><String>RESIDENT EVIL 6</String></Pair>
+                <Pair key="info"><String>BLES01465. Чит к версии: 01.06</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPEB01150_008">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/PSNEU/Resident Evil 6</String></Pair>
+                <Pair key="title"><String>RESIDENT EVIL 6</String></Pair>
+                <Pair key="info"><String>NPEB01150. Чит к версии: 01.06</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="BLES01773_009">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMAGES/IMAGESPS3GAME/Resident Evil Revelations</String></Pair>
+                <Pair key="title"><String>Resident Evil Revelations</String></Pair>
+                <Pair key="info"><String>BLES01773. Чит к версии: 01.01</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="BCES00226_010">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMAGES/IMAGESPS3GAME/Resistance 2</String></Pair>
+                <Pair key="title"><String>Resistance 2™</String></Pair>
+                <Pair key="info"><String>BCES00226. Чит к версии: 01.60</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="BCES01118_011">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMAGES/IMAGESPS3GAME/Resistance 3</String></Pair>
+                <Pair key="title"><String>Resistance 3 EU</String></Pair>
+                <Pair key="info"><String>BCES01118. Чит к версии: 01.05</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="BCES00001_012">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/PSNEU/Resistance - Fall of Man</String></Pair>
+                <Pair key="title"><String>Resistance: Fall of Man™</String></Pair>
+                <Pair key="info"><String>BCES00001. Чит к версии: 01.00</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+			<Table key="NPEA00430_013">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/PSNEU/Resistance - Fall of Man</String></Pair>
+                <Pair key="title"><String>Resistance: Fall of Man™</String></Pair>
+                <Pair key="info"><String>NPEA00430. Чит к версии: 01.00</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="BCES01141_008"
+                attr="BCES01141_008"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_R_lnk.xml#BCES01141_008"
+            />
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="BLES01294_000"
+                attr="BLES01294_000"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_R_lnk.xml#BLES01294_000"
+            />
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPEB02226_011"
+                attr="NPEB02226_011"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_R_lnk.xml#NPEB02226_011"
+            />
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPEB02076_000"
+                attr="NPEB02076_000"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_R_lnk.xml#NPEB02076_000"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="BLES01288_015"
+                attr="BLES01288_015"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_R_lnk.xml#BLES01288_015"
+            />
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPUB31518_019"
+                attr="NPUB31518_019"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_R_lnk.xml#NPUB31518_019"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="BLES01701_017"
+                attr="BLES01701_017"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_R_lnk.xml#BLES01701_017"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPEB00985_018"
+                attr="NPEB00985_018"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_R_lnk.xml#NPEB00985_018"
+            />
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPEB00817_000"
+                attr="NPEB00817_000"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_r_lnk.xml#NPEB00817_000"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="BLES01426_000"
+                attr="BLES01426_000"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_R_lnk.xml#BLES01426_000"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPEB00818_001"
+                attr="NPEB00818_001"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_R_lnk.xml#NPEB00818_001"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPEB00833_002"
+                attr="NPEB00833_002"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_R_lnk.xml#NPEB00833_002"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="BLUS30585_003"
+                attr="BLUS30585_003"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_R_lnk.xml#BLUS30585_003"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="BLES00498_004"
+                attr="BLES00498_004"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_R_lnk.xml#BLES00498_004"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="BLUS30491_005"
+                attr="BLUS30491_005"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_R_lnk.xml#BLUS30491_005"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPEB00687_006"
+                attr="NPEB00687_006"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_R_lnk.xml#NPEB00687_006"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="BLES01465_007"
+                attr="BLES01465_007"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_R_lnk.xml#BLES01465_007"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPEB01150_008"
+                attr="NPEB01150_008"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_R_lnk.xml#NPEB01150_008"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="BLES01773_009"
+                attr="BLES01773_009"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_R_lnk.xml#BLES01773_009"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="BCES00226_010"
+                attr="BCES00226_010"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_R_lnk.xml#BCES00226_010"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="BCES01118_011"
+                attr="BCES01118_011"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_R_lnk.xml#BCES01118_011"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="BCES00001_012"
+                attr="BCES00001_012"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_R_lnk.xml#BCES00001_012"
+            />
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPEA00430_013"
+                attr="NPEA00430_013"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_R_lnk.xml#NPEA00430_013"
+            />
+        </Items>
+    </View>
+</XMBML>

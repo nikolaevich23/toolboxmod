@@ -1,0 +1,34 @@
+<XMBML version="1.0">
+
+<!-- Main Items > External Content > NoPSN Downloader Items JP - Last update : 2019/01/01 -->
+	
+	<View id="nopsn_downloader_JP_items">
+		<Attributes>
+			<Table key="item_amazon_v406_NPJB00773_cfw"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/RESOURCES/NOPSN/IMAGES/amazon</String></Pair> 
+				<Pair key="title"><String>Amazon Instant Video</String></Pair> 
+				<Pair key="info"><String>JP [NPJB00773] - v4.06 - CFW only - Press  to bypass</String></Pair> 
+			</Table>
+			<Table key="item_netflix_v108_NPJB00766_retail"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/RESOURCES/NOPSN/IMAGES/netflix</String></Pair> 
+				<Pair key="title"><String>Netflix</String></Pair> 
+				<Pair key="info"><String>JP [NPJB00766] - v1.08 - Retail Package</String></Pair> 
+			</Table>
+		</Attributes>
+		<Items>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_amazon_v406_NPJB00773_cfw" 
+				attr="item_amazon_v406_NPJB00773_cfw" 
+				src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/RESOURCES/NOPSN/CFW/nopsn_ALL_download_links.xml#item_amazon_v406_NPJB00773_cfw_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_netflix_v108_NPJB00766_retail" 
+				attr="item_netflix_v108_NPJB00766_retail" 
+				src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/RESOURCES/NOPSN/CFW/nopsn_ALL_download_links.xml#item_netflix_v108_NPJB00766_retail_main" 
+			/>
+		</Items>
+	</View>
+	
+</XMBML>

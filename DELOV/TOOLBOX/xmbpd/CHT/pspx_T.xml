@@ -1,0 +1,188 @@
+<XMBML version="1.0">
+    <View id="pkg_items">
+        <Attributes>
+			<Table key="BLES00058_005">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/PSNEU/The Darkness II</String></Pair>
+                <Pair key="title"><String>THE DARKNESS</String></Pair>
+                <Pair key="info"><String>BLES00058. Чит к версии: 01.00</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="BLES02152_006">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMAGES/IMAGESPS3GAME/Tales Of Zestiria</String></Pair>
+                <Pair key="title"><String>Tales of Zestiria</String></Pair>
+                <Pair key="info"><String>BLES02152. Чит к версии: 01.00</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="BLES01916_013">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMAGES/IMAGESPS3GAME/The Evil Within</String></Pair>
+                <Pair key="title"><String>The Evil Within</String></Pair>
+                <Pair key="info"><String>BLES01916. Чит к версии: 01.05</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPEB01797_014">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/PSNEU/The Evil Within</String></Pair>
+                <Pair key="title"><String>The Evil Within</String></Pair>
+                <Pair key="info"><String>NPEB01797. Чит к версии: 01.05</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+			<Table key="BLES00153_001">
+				<Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMAGES/IMAGESPS3GAMES/Half-Life 2 The Orange Box</String></Pair>
+                <Pair key="title"><String>The Orange Box</String></Pair>
+                <Pair key="info"><String>BLES00153. Чит к версии: 01.10</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="BCES01010_008">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMAGES/IMAGESPS3GAME/The Fight Light Out</String></Pair>
+                <Pair key="title"><String>Twisted Metal™</String></Pair>
+                <Pair key="info"><String>BCES01010. Чит к версии: 01.06</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="BLES01990_021">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/BLES01990.PNG</String></Pair>
+                <Pair key="title"><String>The Amazing Spider-Man 2™</String></Pair>
+                <Pair key="info"><String>BLES01990. Чит к версии: 01.00</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="BCES01585_022">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMAGES/IMAGESPS3GAME/The Last of Us</String></Pair>
+                <Pair key="title"><String>The Last of Us™ 1.11</String></Pair>
+                <Pair key="info"><String>BCES01585. Чит к версии: 01.11</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPEA00435_023">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/PSNEU/The Last of Us</String></Pair>
+                <Pair key="title"><String>The Last of Us™</String></Pair>
+                <Pair key="info"><String>NPEA00435. Чит к версии: 01.11</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="BLES00159_024">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/BLES00159.PNG</String></Pair>
+                <Pair key="title"><String>TimeShift</String></Pair>
+                <Pair key="info"><String>BLES00159. Чит к версии: 01.02</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="BLES01878_025">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/BLES01878.PNG</String></Pair>
+                <Pair key="title"><String>Tom Clancy's Splinter Cell® Blacklist™ [RU]</String></Pair>
+                <Pair key="info"><String>BLES01878. Чит к версии: 01.03</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="BLES01781_026">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMAGES/IMAGESPS3GAME/Tomb Raider</String></Pair>
+                <Pair key="title"><String>Tomb Raider</String></Pair>
+                <Pair key="info"><String>BLES01781. Чит к версии: 01.03</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+			<Table key="NPEB01298_014">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/PSNEU/Tomb Raider Digital Edition</String></Pair>
+                <Pair key="title"><String>Tomb Raider</String></Pair>
+                <Pair key="info"><String>NPEB01298. Чит к версии: 01.02</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="BLUS30681_027">
+				<Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMAGES/IMAGESPS3GAME/Transformers Fall of Cybertron</String></Pair>
+                <Pair key="title"><String>TRANSFORMERS: Fall of Cybertron</String></Pair>
+                <Pair key="info"><String>BLUS30681. Чит к версии: 01.01</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPEB00668_028">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPEB00668.PNG</String></Pair>
+                <Pair key="title"><String>Trine 2 Demo</String></Pair>
+                <Pair key="info"><String>NPEB00668. Чит к версии: 01.00</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="BLES00058_005"
+                attr="BLES00058_005"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_T_lnk.xml#BLES00058_005"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="BLES02152_006"
+                attr="BLES02152_006"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_T_lnk.xml#BLES02152_006"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="BLES01916_013"
+                attr="BLES01916_013"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_T_lnk.xml#BLES01916_013"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPEB01797_014"
+                attr="NPEB01797_014"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_T_lnk.xml#NPEB01797_014"
+            />			
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="BLES00153_001"
+                attr="BLES00153_001"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_T_lnk.xml#BLES00153_001"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="BCES01010_008"
+                attr="BCES01010_008"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_T_lnk.xml#BCES01010_008"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="BLES01990_021"
+                attr="BLES01990_021"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_T_lnk.xml#BLES01990_021"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="BCES01585_022"
+                attr="BCES01585_022"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_T_lnk.xml#BCES01585_022"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPEA00435_023"
+                attr="NPEA00435_023"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_T_lnk.xml#NPEA00435_023"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="BLES00159_024"
+                attr="BLES00159_024"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_T_lnk.xml#BLES00159_024"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="BLES01878_025"
+                attr="BLES01878_025"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_T_lnk.xml#BLES01878_025"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="BLES01781_026"
+                attr="BLES01781_026"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_T_lnk.xml#BLES01781_026"
+            />
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPEB01298_014"
+                attr="NPEB01298_014"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_T_lnk.xml#NPEB01298_014"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="BLUS30681_027"
+                attr="BLUS30681_027"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_T_lnk.xml#BLUS30681_027"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPEB00668_028"
+                attr="NPEB00668_028"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_T_lnk.xml#NPEB00668_028"
+            />
+        </Items>
+    </View>
+</XMBML>
