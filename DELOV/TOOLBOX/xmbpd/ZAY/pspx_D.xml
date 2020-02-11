@@ -50,7 +50,7 @@
                 <Pair key="ingame"><String>disable</String></Pair>
             </Table>
 			<Table key="NPUB30682_000">
-                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPUB30682.PNG</String></Pair>
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMAGES/IMAGESPS3GAME/Dead Rising 2 Off the Record</String></Pair>
                 <Pair key="title"><String>Dead Rising 2: Off The Record</String></Pair>
                 <Pair key="info"><String>NPUB30682. Игра и Патч: 2 pkg</String></Pair>
                 <Pair key="ingame"><String>disable</String></Pair>
@@ -92,7 +92,7 @@
                 <Pair key="ingame"><String>disable</String></Pair>
             </Table>
             <Table key="NPUB30926_012">
-                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPUB30926.PNG</String></Pair>
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/icon/folder_game</String></Pair>
                 <Pair key="title"><String>Derrick The Deathfin</String></Pair>
                 <Pair key="info"><String>NPUB30926. Игра и Патч: 2 pkg</String></Pair>
                 <Pair key="ingame"><String>disable</String></Pair>
