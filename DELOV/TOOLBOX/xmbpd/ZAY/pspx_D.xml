@@ -79,12 +79,6 @@
                 <Pair key="info"><String>NPEB00161. Игра и Патч: 2 pkg</String></Pair>
                 <Pair key="ingame"><String>disable</String></Pair>
             </Table>
-            <Table key="NPEB01323_010">
-                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/PSNEU/Deathmatch Village</String></Pair>
-                <Pair key="title"><String>Deathmatch Village</String></Pair>
-                <Pair key="info"><String>NPEB01323. Игра и Патч: 2 pkg</String></Pair>
-                <Pair key="ingame"><String>disable</String></Pair>
-            </Table>
             <Table key="NPEB01052_011">
                 <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/PSNEU/Defenders of Ardania</String></Pair>
                 <Pair key="title"><String>Defenders of Ardania</String></Pair>
@@ -188,12 +182,6 @@
                 key="NPEB00161_008"
                 attr="NPEB00161_008"
                 src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/ZAY/pspx_D_lnk.xml#NPEB00161_008"
-            />
-            <Query
-                class="type:x-xmb/folder-pixmap"
-                key="NPEB01323_010"
-                attr="NPEB01323_010"
-                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/ZAY/pspx_D_lnk.xml#NPEB01323_010"
             />
             <Query
                 class="type:x-xmb/folder-pixmap"
