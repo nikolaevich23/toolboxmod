@@ -19,6 +19,12 @@
                 <Pair key="info"><String>BLES01770. Чит к версии: 01.05</String></Pair>
                 <Pair key="ingame"><String>disable</String></Pair>
             </Table>
+			<Table key="NPEB01224_013">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMAGES/IMAGESPS3GAME/Aliens Colonial Marines</String></Pair>
+                <Pair key="title"><String>Aliens: Colonial Marines</String></Pair>
+                <Pair key="info"><String>NPEB01224. Чит к версии: 01.05</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
 			<Table key="BLES01697_003">
                 <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMAGES/IMAGESPS3GAMES/Alien Isolation</String></Pair>
                 <Pair key="title"><String>Alien: Isolation™</String></Pair>
@@ -158,6 +164,12 @@
                 key="BLES01770_001"
                 attr="BLES01770_001"
                 src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_Д_lnk.xml#BLES01770_001"
+            />
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPEB01224_013"
+                attr="NPEB01224_013"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_A_lnk.xml#NPEB01224_013"
             />
 			<Query
                 class="type:x-xmb/folder-pixmap"

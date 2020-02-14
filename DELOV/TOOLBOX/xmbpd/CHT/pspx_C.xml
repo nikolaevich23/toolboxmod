@@ -121,6 +121,12 @@
                 <Pair key="info"><String>BLES01060. Чит к версии: 01.04</String></Pair>
                 <Pair key="ingame"><String>disable</String></Pair>
             </Table>
+			<Table key="NPEB00653_006">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/PSNEU/Crysis 2</String></Pair>
+                <Pair key="title"><String>Crysis®2</String></Pair>
+                <Pair key="info"><String>NPEB00653. Чит к версии: 01.00</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
             <Table key="BLES01649_039">
                 <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMAGES/IMAGESPS3GAME/Crysis 3</String></Pair>
                 <Pair key="title"><String>Crysis®3</String></Pair>
@@ -132,8 +138,7 @@
                 <Pair key="title"><String>Crysis®3</String></Pair>
                 <Pair key="info"><String>NPUB30757. Чит к версии: 01.04</String></Pair>
                 <Pair key="ingame"><String>disable</String></Pair>
-            </Table>
-            
+            </Table>            
         </Attributes>
         <Items>
             <Query
@@ -255,6 +260,12 @@
                 key="BLES01060_038"
                 attr="BLES01060_038"
                 src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_C_lnk.xml#BLES01060_038"
+            />
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPEB00653_006"
+                attr="NPEB00653_006"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_C_lnk.xml#NPEB00653_006"
             />
             <Query
                 class="type:x-xmb/folder-pixmap"
