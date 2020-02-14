@@ -758,5 +758,38 @@
             <Item class="type:x-xmb/xmlnpsignup" key="link_001" attr="link_001"/>
         </Items>
     </View>
+    <View id="NPUB31766_000">
+        <Attributes>
+            <Table key="link_000">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/UP1063/NPUB31766_00/UP1063-NPUB31766_00-DISGAEA300000001_bg_1_c3293f5b9a9d86cd4408c4d0347ba6a0ebd192cd.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/UP1063/NPUB31766_00/UP1063-NPUB31766_00-DISGAEA300000001_bg_1_c3293f5b9a9d86cd4408c4d0347ba6a0ebd192cd.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>UP1063-NPUB31766_00-DISGAEA300000001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/icon/dg</String></Pair>
+            </Table>
+			<Table key="link_001">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/rfJpmpOn_pb00A</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/rfJpmpOn_pb00A</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>2PATCH-BLUS30181_00-BLUS301810000001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/icon/df</String></Pair>
+            </Table>
+            <Table key="link_002">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/MdEBA5ncJg2cxA</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/MdEBA5ncJg2cxA</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>1GAME0-NPUB31766_00-NPUB317660000001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/icon/df</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="link_000" attr="link_000"/>
+			<Item class="type:x-xmb/xmlnpsignup" key="link_001" attr="link_001"/>
+            <Item class="type:x-xmb/xmlnpsignup" key="link_002" attr="link_002"/>
+        </Items>
+    </View>
 
 ﻿</XMBML>

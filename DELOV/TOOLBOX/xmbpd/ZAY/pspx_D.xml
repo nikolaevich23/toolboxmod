@@ -103,6 +103,12 @@
                 <Pair key="info"><String>NPEB00121. Игра и Патч: 2 pkg</String></Pair>
                 <Pair key="ingame"><String>disable</String></Pair>
             </Table>
+			<Table key="NPUB31766_000">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/tcxs/disgaea4</String></Pair>
+                <Pair key="title"><String>Disgaea3</String></Pair>
+                <Pair key="info"><String>NPUB31766. Игра и Патч: 1 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>  
         </Attributes>
         <Items>
             <Query
@@ -207,6 +213,12 @@
                 attr="NPEB00121_000"
                 src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/ZAY/pspx_D_lnk.xml#NPEB00121_000"
             />
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPUB31766_000"
+                attr="NPUB31766_000"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/ZAY/pspx_D_lnk.xml#NPUB31766_000"
+            /> 
         </Items>
     </View>
 
