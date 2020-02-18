@@ -1,0 +1,21 @@
+<XMBML version="1.0">
+    <View id="pkg_items">
+        <Attributes>
+            <Table key="NPEB00891_000">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/PSNEU/Trail of Ibn Battuta Episode 1</String></Pair>
+                <Pair key="title"><String>Unearthed Episode1</String></Pair>
+                <Pair key="info"><String>NPEB00891. Игра и Патч: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPEB00891_000"
+                attr="NPEB00891_000"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/ZAY/pspx_U_lnk.xml#NPEB00891_000"
+            />
+        </Items>
+    </View>
+
+</XMBML>

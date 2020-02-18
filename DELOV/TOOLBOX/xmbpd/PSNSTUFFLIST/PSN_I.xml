@@ -1,0 +1,153 @@
+<XMBML version="1.0">
+    <View id="pkg_items">
+        <Attributes>
+            <Table key="NPEB01879_030">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPEB01879.PNG</String></Pair>
+                <Pair key="title"><String>Injustice: Gods Among Us Ultimate Edition</String></Pair>
+                <Pair key="info"><String>NPEB01879. Игра размер (473.8 MB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPEB02160_042">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPEB02160.PNG</String></Pair>
+                <Pair key="title"><String>In Space We Brawl</String></Pair>
+                <Pair key="info"><String>NPEB02160. Игра размер (5.53 GB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPUA30070_290">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPUA30070.PNG</String></Pair>
+                <Pair key="title"><String>Infamous 2: The Red Soundtrack</String></Pair>
+                <Pair key="info"><String>NPUA30070. Игра размер (80.65 MB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPUA80480_371">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPUA80480.PNG</String></Pair>
+                <Pair key="title"><String>inFamous</String></Pair>
+                <Pair key="info"><String>NPUA80480. Игра размер (12.24 GB) и Rap: 3 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPUA80657_385">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPUA80657.PNG</String></Pair>
+                <Pair key="title"><String>inFAMOUS™: Festival of Blood</String></Pair>
+                <Pair key="info"><String>NPUA80657. Игра размер (135.84 MB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPUA80676_391">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPUA80676.PNG</String></Pair>
+                <Pair key="title"><String>ICO™</String></Pair>
+                <Pair key="info"><String>NPUA80676. Игра размер (245.1 MB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPUB30073_465">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPUB30073.PNG</String></Pair>
+                <Pair key="title"><String>Invincible Tiger</String></Pair>
+                <Pair key="info"><String>NPUB30073. Игра размер (1.26 GB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPUB30100_480">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPUB30100.PNG</String></Pair>
+                <Pair key="title"><String>Interpol: The Trail of Dr. Chaos</String></Pair>
+                <Pair key="info"><String>NPUB30100. Игра размер (308.5 MB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPUB30104_482">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPUB30104.PNG</String></Pair>
+                <Pair key="title"><String>Inferno Pool</String></Pair>
+                <Pair key="info"><String>NPUB30104. Игра размер (123.25 MB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPUB30696_708">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPUB30696.PNG</String></Pair>
+                <Pair key="title"><String>Ion Assault HD</String></Pair>
+                <Pair key="info"><String>NPUB30696. Игра размер (9.12 GB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPUB31181_871">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPUB31181.PNG</String></Pair>
+                <Pair key="title"><String>Injustice: Gods Among Us</String></Pair>
+                <Pair key="info"><String>NPUB31181. Игра размер (13.82 GB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPUB31671_1018">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPUB31671.PNG</String></Pair>
+                <Pair key="title"><String>Invokers Tournament™</String></Pair>
+                <Pair key="info"><String>NPUB31671. Игра размер (977.96 MB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPEB01879_030"
+                attr="NPEB01879_030"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_I_lnk.xml#NPEB01879_030"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPEB02160_042"
+                attr="NPEB02160_042"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_I_lnk.xml#NPEB02160_042"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPUA30070_290"
+                attr="NPUA30070_290"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_I_lnk.xml#NPUA30070_290"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPUA80480_371"
+                attr="NPUA80480_371"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_I_lnk.xml#NPUA80480_371"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPUA80657_385"
+                attr="NPUA80657_385"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_I_lnk.xml#NPUA80657_385"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPUA80676_391"
+                attr="NPUA80676_391"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_I_lnk.xml#NPUA80676_391"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPUB30073_465"
+                attr="NPUB30073_465"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_I_lnk.xml#NPUB30073_465"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPUB30100_480"
+                attr="NPUB30100_480"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_I_lnk.xml#NPUB30100_480"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPUB30104_482"
+                attr="NPUB30104_482"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_I_lnk.xml#NPUB30104_482"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPUB30696_708"
+                attr="NPUB30696_708"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_I_lnk.xml#NPUB30696_708"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPUB31181_871"
+                attr="NPUB31181_871"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_I_lnk.xml#NPUB31181_871"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPUB31671_1018"
+                attr="NPUB31671_1018"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_I_lnk.xml#NPUB31671_1018"
+            />
+        </Items>
+    </View>
+
+</XMBML>

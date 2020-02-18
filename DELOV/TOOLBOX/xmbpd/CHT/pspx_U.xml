@@ -7,6 +7,18 @@
                 <Pair key="info"><String>BLUS31218. Чит к версии: 01.12</String></Pair>
                 <Pair key="ingame"><String>disable</String></Pair>
             </Table>
+			<Table key="BCES00065_033">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMAGES/IMAGESPS3GAME/Uncharted Drake's Fortune</String></Pair>
+                <Pair key="title"><String>Uncharted: Drake's Fortune™</String></Pair>
+                <Pair key="info"><String>BCES00065. Чит к версии: 01.01</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+			<Table key="NPEA00363_001">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/PSNEU/Uncharted - Drakes Fortune</String></Pair>
+                <Pair key="title"><String>Uncharted: Drake's Fortune™</String></Pair>
+                <Pair key="info"><String>NPEA00363. Чит к версии: 01.02</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
             <Table key="BCES00757_030">
                 <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMAGES/IMAGESPS3GAME/Uncharted 2 Among Thieves</String></Pair>
                 <Pair key="title"><String>Uncharted 2: Among Thieves™</String></Pair>
@@ -30,13 +42,7 @@
                 <Pair key="title"><String>Uncharted 3: Drake's Deception™ Free To Play 1.19</String></Pair>
                 <Pair key="info"><String>NPEA00422. Чит к версии: 01.19</String></Pair>
                 <Pair key="ingame"><String>disable</String></Pair>
-            </Table>
-            <Table key="BCES00065_033">
-                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMAGES/IMAGESPS3GAME/Uncharted Drake's Fortune</String></Pair>
-                <Pair key="title"><String>Uncharted: Drake's Fortune™</String></Pair>
-                <Pair key="info"><String>BCES00065. Чит к версии: 01.01</String></Pair>
-                <Pair key="ingame"><String>disable</String></Pair>
-            </Table>
+            </Table>            
         </Attributes>
         <Items>
             <Query
@@ -44,6 +50,18 @@
                 key="BLUS31218_029"
                 attr="BLUS31218_029"
                 src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_U_lnk.xml#BLUS31218_029"
+            />
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="BCES00065_033"
+                attr="BCES00065_033"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_U_lnk.xml#BCES00065_033"
+            />
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPEA00363_001"
+                attr="NPEA00363_001"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_U_lnk.xml#NPEA00363_001"
             />
             <Query
                 class="type:x-xmb/folder-pixmap"
@@ -68,13 +86,7 @@
                 key="NPEA00422_018"
                 attr="NPEA00422_018"
                 src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_U_lnk.xml#NPEA00422_018"
-            />
-            <Query
-                class="type:x-xmb/folder-pixmap"
-                key="BCES00065_033"
-                attr="BCES00065_033"
-                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_U_lnk.xml#BCES00065_033"
-            />
+            />            
         </Items>
     </View>
 </XMBML>

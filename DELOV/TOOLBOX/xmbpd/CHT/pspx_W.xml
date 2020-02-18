@@ -1,7 +1,13 @@
 <XMBML version="1.0">
     <View id="pkg_items">
         <Attributes>
-	    <Table key="BLES01854_016">
+			<Table key="BLES01183_014">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/BLES01183.PNG</String></Pair>
+                <Pair key="title"><String>Warriors: Lege</String></Pair>
+                <Pair key="info"><String>BLES01183. Чит к версии: 01.04</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+			<Table key="BLES01854_016">
                 <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/BLES01854.PNG</String></Pair>
                 <Pair key="title"><String>WATCH_DOGS™ [EU]</String></Pair>
                 <Pair key="info"><String>BLES01854. Чит к версии: 01.04</String></Pair>
@@ -27,6 +33,12 @@
             </Table>
         </Attributes>
         <Items>
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="BLES01183_014"
+                attr="BLES01183_014"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_W_lnk.xml#BLES01183_014"
+            />
 			<Query
                 class="type:x-xmb/folder-pixmap"
                 key="BLES01854_016"

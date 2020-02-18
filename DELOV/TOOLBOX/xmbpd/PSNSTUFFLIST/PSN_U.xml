@@ -1,0 +1,141 @@
+<XMBML version="1.0">
+    <View id="pkg_items">
+        <Attributes>
+            <Table key="NPEB00794_024">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPEB00794.PNG</String></Pair>
+                <Pair key="title"><String>Under Siege</String></Pair>
+                <Pair key="info"><String>NPEB00794. Игра размер (5.29 GB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPUA70051_300">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPUA70051.PNG</String></Pair>
+                <Pair key="title"><String>Uncharted 2: Among Thieves</String></Pair>
+                <Pair key="info"><String>NPUA70051. Игра размер (65.63 MB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPUA80234_358">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPUA80234.PNG</String></Pair>
+                <Pair key="title"><String>UNCHARTED: EYE OF INDRA - EPISODE 1-4</String></Pair>
+                <Pair key="info"><String>NPUA80234. Игра размер (299.07 MB) и Rap: 4 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPUA80382_365">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPUA80382.PNG</String></Pair>
+                <Pair key="title"><String>UNCHARTED: EYE OF INDRA - EPISODE 4</String></Pair>
+                <Pair key="info"><String>NPUA80382. Игра размер (1.9 GB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPUA80697_396">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPUA80697.PNG</String></Pair>
+                <Pair key="title"><String>Uncharted: Drake's Fortune™</String></Pair>
+                <Pair key="info"><String>NPUA80697. Игра размер (605.25 MB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPUB30082_470">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPUB30082.PNG</String></Pair>
+                <Pair key="title"><String>UNO</String></Pair>
+                <Pair key="info"><String>NPUB30082. Игра размер (257.04 MB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPUB31062_824">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPUB31062.PNG</String></Pair>
+                <Pair key="title"><String>UNDER DEFEAT HD DELUXE EDITION</String></Pair>
+                <Pair key="info"><String>NPUB31062. Игра размер (8.17 GB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPUB31092_836">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPUB31092.PNG</String></Pair>
+                <Pair key="title"><String>Urban Trial Freestyle™</String></Pair>
+                <Pair key="info"><String>NPUB31092. Игра размер (2.6 GB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPUB31453_964">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPUB31453.PNG</String></Pair>
+                <Pair key="title"><String>Ultratron</String></Pair>
+                <Pair key="info"><String>NPUB31453. Игра размер (1.15 GB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPUB31593_1003">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPUB31593.PNG</String></Pair>
+                <Pair key="title"><String>UNDER NIGHT IN-BIRTH Exe:Late</String></Pair>
+                <Pair key="info"><String>NPUB31593. Игра размер (82.01 MB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPUB31605_1008">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPUB31605.PNG</String></Pair>
+                <Pair key="title"><String>Unmechanical: Extended</String></Pair>
+                <Pair key="info"><String>NPUB31605. Игра размер (6.51 GB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPEB00794_024"
+                attr="NPEB00794_024"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_U_lnk.xml#NPEB00794_024"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPUA70051_300"
+                attr="NPUA70051_300"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_U_lnk.xml#NPUA70051_300"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPUA80234_358"
+                attr="NPUA80234_358"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_U_lnk.xml#NPUA80234_358"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPUA80382_365"
+                attr="NPUA80382_365"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_U_lnk.xml#NPUA80382_365"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPUA80697_396"
+                attr="NPUA80697_396"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_U_lnk.xml#NPUA80697_396"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPUB30082_470"
+                attr="NPUB30082_470"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_U_lnk.xml#NPUB30082_470"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPUB31062_824"
+                attr="NPUB31062_824"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_U_lnk.xml#NPUB31062_824"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPUB31092_836"
+                attr="NPUB31092_836"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_U_lnk.xml#NPUB31092_836"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPUB31453_964"
+                attr="NPUB31453_964"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_U_lnk.xml#NPUB31453_964"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPUB31593_1003"
+                attr="NPUB31593_1003"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_U_lnk.xml#NPUB31593_1003"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPUB31605_1008"
+                attr="NPUB31605_1008"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_U_lnk.xml#NPUB31605_1008"
+            />
+        </Items>
+    </View>
+
+</XMBML>

@@ -31,6 +31,12 @@
                 <Pair key="info"><String>BLES01288. Чит к версии: 01.03</String></Pair>
                 <Pair key="ingame"><String>disable</String></Pair>
             </Table>
+			<Table key="NPEB01187_012">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/PSNEU/Resident Evil Revelations</String></Pair>
+                <Pair key="title"><String>Resident Evil Revelations</String></Pair>
+                <Pair key="info"><String>NPEB01187. Чит к версии: 01.01</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
 			<Table key="NPUB31518_019">
                 <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/PSNUS/rer2t</String></Pair>
                 <Pair key="title"><String>RESIDENT EVIL REVELATIONS 2</String></Pair>
@@ -170,6 +176,12 @@
                 key="BLES01288_015"
                 attr="BLES01288_015"
                 src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_R_lnk.xml#BLES01288_015"
+            />
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPEB01187_012"
+                attr="NPEB01187_012"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_R_lnk.xml#NPEB01187_012"
             />
 			<Query
                 class="type:x-xmb/folder-pixmap"

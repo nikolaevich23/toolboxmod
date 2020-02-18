@@ -13,6 +13,12 @@
                 <Pair key="info"><String>NPEB01338. Чит к версии: 01.00</String></Pair>
                 <Pair key="ingame"><String>disable</String></Pair>
             </Table>
+			<Table key="NPUB30752_004">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPUB30752.PNG</String></Pair>
+                <Pair key="title"><String>GoldenEye 007™: Reloaded</String></Pair>
+                <Pair key="info"><String>NPUB30752. Чит к версии: 01.02</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
             <Table key="BCES00510_002">
                 <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMAGES/IMAGESPS3GAME/God of War 3</String></Pair>
                 <Pair key="title"><String>God of War® III</String></Pair>
@@ -41,6 +47,12 @@
                 <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/PSNEU/Grand Theft Auto IV</String></Pair>
                 <Pair key="title"><String>Grand Theft Auto IV</String></Pair>
                 <Pair key="info"><String>NPEB00882. Чит к версии: 01.09</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+			<Table key="BLES01807_003">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMAGES/IMAGESPS3GAMES/Grand Theft Auto V</String></Pair>
+                <Pair key="title"><String>Grand Theft Auto V</String></Pair>
+                <Pair key="info"><String>BLES01807. Чит к версии: 01.27</String></Pair>
                 <Pair key="ingame"><String>disable</String></Pair>
             </Table>
             <Table key="NPEA00445_012">
@@ -93,6 +105,12 @@
                 attr="NPEB01338_001"
                 src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_G_lnk.xml#NPEB01338_001"
             />
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPUB30752_004"
+                attr="NPUB30752_004"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_G_lnk.xml#NPUB30752_004"
+            />
             <Query
                 class="type:x-xmb/folder-pixmap"
                 key="BCES00510_002"
@@ -122,6 +140,12 @@
                 key="NPEB00882_007"
                 attr="NPEB00882_007"
                 src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_G_lnk.xml#NPEB00882_007"
+            />
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="BLES01807_003"
+                attr="BLES01807_003"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_G_lnk.xml#BLES01807_003"
             />
             <Query
                 class="type:x-xmb/folder-pixmap"

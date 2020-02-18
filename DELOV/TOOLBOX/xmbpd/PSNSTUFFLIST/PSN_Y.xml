@@ -1,0 +1,105 @@
+<XMBML version="1.0">
+    <View id="pkg_items">
+        <Attributes>
+            <Table key="NPEB02011_037">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPEB02011.PNG</String></Pair>
+                <Pair key="title"><String>Yaiba: Ninja Gaiden Z Sountrack</String></Pair>
+                <Pair key="info"><String>NPEB02011. Игра размер (541.63 MB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPJJ30038_271">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPJJ30038.PNG</String></Pair>
+                <Pair key="title"><String>Ys I・II</String></Pair>
+                <Pair key="info"><String>NPJJ30038. Игра размер (7.41 MB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPJJ30039_272">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPJJ30039.PNG</String></Pair>
+                <Pair key="title"><String>Ys III Wanderers from Ys</String></Pair>
+                <Pair key="info"><String>NPJJ30039. Игра размер (52.38 MB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPJJ30040_273">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPJJ30040.PNG</String></Pair>
+                <Pair key="title"><String>Ys IV The Dawn of Ys</String></Pair>
+                <Pair key="info"><String>NPJJ30040. Игра размер (7.24 MB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPUB31256_901">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPUB31256.PNG</String></Pair>
+                <Pair key="title"><String>Yaiba: Ninja Gaiden Z</String></Pair>
+                <Pair key="info"><String>NPUB31256. Игра размер (14.47 GB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPUB31384_944">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPUB31384.PNG</String></Pair>
+                <Pair key="title"><String>Young Justice: Legacy</String></Pair>
+                <Pair key="info"><String>NPUB31384. Игра размер (853.55 MB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPUB31509_980">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPUB31509.PNG</String></Pair>
+                <Pair key="title"><String>YAKUZA: DEAD SOULS</String></Pair>
+                <Pair key="info"><String>NPUB31509. Игра размер (183.02 MB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPUB31510_981">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPUB31510.PNG</String></Pair>
+                <Pair key="title"><String>YAKUZA 4</String></Pair>
+                <Pair key="info"><String>NPUB31510. Игра размер (283.09 MB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPEB02011_037"
+                attr="NPEB02011_037"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_Y_lnk.xml#NPEB02011_037"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPJJ30038_271"
+                attr="NPJJ30038_271"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_Y_lnk.xml#NPJJ30038_271"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPJJ30039_272"
+                attr="NPJJ30039_272"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_Y_lnk.xml#NPJJ30039_272"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPJJ30040_273"
+                attr="NPJJ30040_273"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_Y_lnk.xml#NPJJ30040_273"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPUB31256_901"
+                attr="NPUB31256_901"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_Y_lnk.xml#NPUB31256_901"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPUB31384_944"
+                attr="NPUB31384_944"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_Y_lnk.xml#NPUB31384_944"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPUB31509_980"
+                attr="NPUB31509_980"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_Y_lnk.xml#NPUB31509_980"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPUB31510_981"
+                attr="NPUB31510_981"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_Y_lnk.xml#NPUB31510_981"
+            />
+        </Items>
+    </View>
+
+</XMBML>

@@ -1,0 +1,105 @@
+<XMBML version="1.0">
+    <View id="pkg_items">
+        <Attributes>
+            <Table key="NPEB02211_044">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPEB02211.PNG</String></Pair>
+                <Pair key="title"><String>ONE PIECE: PIRATE WARRIORS 3</String></Pair>
+                <Pair key="info"><String>NPEB02211. Игра размер (2.35 GB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPUA80129_342">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPUA80129.PNG</String></Pair>
+                <Pair key="title"><String>Operation Creature Feature™</String></Pair>
+                <Pair key="info"><String>NPUA80129. Игра размер (131.46 MB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPUB30554_646">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPUB30554.PNG</String></Pair>
+                <Pair key="title"><String>Oddworld: Stranger's Wrath HD</String></Pair>
+                <Pair key="info"><String>NPUB30554. Игра размер (410.86 MB) и Rap: 4 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPUB30720_718">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPUB30720.PNG</String></Pair>
+                <Pair key="title"><String>OKAMI HD (Download Ver.)</String></Pair>
+                <Pair key="info"><String>NPUB30720. Игра размер (87.89 MB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPUB30891_794">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPUB30891.PNG</String></Pair>
+                <Pair key="title"><String>Of Orcs And Men</String></Pair>
+                <Pair key="info"><String>NPUB30891. Игра размер (1.23 GB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPUB31414_953">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPUB31414.PNG</String></Pair>
+                <Pair key="title"><String>Oddworld: New 'n' Tasty</String></Pair>
+                <Pair key="info"><String>NPUB31414. Игра размер (5.32 GB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPUB31479_972">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPUB31479.PNG</String></Pair>
+                <Pair key="title"><String>ONE PIECE Unlimited World Red</String></Pair>
+                <Pair key="info"><String>NPUB31479. Игра размер (7.76 GB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPUB31580_999">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPUB31580.PNG</String></Pair>
+                <Pair key="title"><String>OlliOlli</String></Pair>
+                <Pair key="info"><String>NPUB31580. Игра размер (6.33 GB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPEB02211_044"
+                attr="NPEB02211_044"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_O_lnk.xml#NPEB02211_044"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPUA80129_342"
+                attr="NPUA80129_342"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_O_lnk.xml#NPUA80129_342"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPUB30554_646"
+                attr="NPUB30554_646"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_O_lnk.xml#NPUB30554_646"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPUB30720_718"
+                attr="NPUB30720_718"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_O_lnk.xml#NPUB30720_718"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPUB30891_794"
+                attr="NPUB30891_794"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_O_lnk.xml#NPUB30891_794"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPUB31414_953"
+                attr="NPUB31414_953"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_O_lnk.xml#NPUB31414_953"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPUB31479_972"
+                attr="NPUB31479_972"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_O_lnk.xml#NPUB31479_972"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPUB31580_999"
+                attr="NPUB31580_999"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_O_lnk.xml#NPUB31580_999"
+            />
+        </Items>
+    </View>
+
+</XMBML>

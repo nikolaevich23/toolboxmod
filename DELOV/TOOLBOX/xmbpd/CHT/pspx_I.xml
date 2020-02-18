@@ -7,6 +7,12 @@
                 <Pair key="info"><String>BCES00609. Чит к версии: 01.00</String></Pair>
                 <Pair key="ingame"><String>disable</String></Pair>
             </Table>
+			<Table key="NPEA00252_011">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/PSNEU/inFAMOUS</String></Pair>
+                <Pair key="title"><String>inFamous</String></Pair>
+                <Pair key="info"><String>NPEA00252. Чит к версии: 01.00</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
             <Table key="BCUS98125_008">
                 <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/PSNEU/inFAMOUS 2</String></Pair>
                 <Pair key="title"><String>inFAMOUS™ 2 Additional Content</String></Pair>
@@ -32,6 +38,12 @@
                 key="BCES00609_009"
                 attr="BCES00609_009"
                 src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_i_lnk.xml#BCES00609_009"
+            />
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPEA00252_011"
+                attr="NPEA00252_011"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_i_lnk.xml#NPEA00252_011"
             />
             <Query
                 class="type:x-xmb/folder-pixmap"

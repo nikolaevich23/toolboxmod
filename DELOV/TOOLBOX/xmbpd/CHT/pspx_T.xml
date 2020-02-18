@@ -37,6 +37,12 @@
                 <Pair key="info"><String>BCES01010. Чит к версии: 01.06</String></Pair>
                 <Pair key="ingame"><String>disable</String></Pair>
             </Table>
+			<Table key="NPEB01936_000">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/BLES01990.PNG</String></Pair>
+                <Pair key="title"><String>The Amazing Spider-Man 2™</String></Pair>
+                <Pair key="info"><String>NPEB01936. Чит к версии: 01.00</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
             <Table key="BLES01990_021">
                 <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/BLES01990.PNG</String></Pair>
                 <Pair key="title"><String>The Amazing Spider-Man 2™</String></Pair>
@@ -128,6 +134,12 @@
                 key="BCES01010_008"
                 attr="BCES01010_008"
                 src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_T_lnk.xml#BCES01010_008"
+            />
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPEB01936_000"
+                attr="NPEB01936_000"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_T_lnk.xml#NPEB01936_000"
             />
             <Query
                 class="type:x-xmb/folder-pixmap"

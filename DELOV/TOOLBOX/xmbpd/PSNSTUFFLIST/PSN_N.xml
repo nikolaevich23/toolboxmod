@@ -1,0 +1,693 @@
+<XMBML version="1.0">
+    <View id="pkg_items">
+        <Attributes>
+            <Table key="NPJB00006_093">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPJB00006.PNG</String></Pair>
+                <Pair key="title"><String>NOBY NOBY BOY™</String></Pair>
+                <Pair key="info"><String>NPJB00006. Игра размер (360.06 MB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPJB00147_128">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPJB00147.PNG</String></Pair>
+                <Pair key="title"><String>Need for Speed™ Hot Pursuit</String></Pair>
+                <Pair key="info"><String>NPJB00147. Игра размер (1.55 GB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPJB00226_145">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPJB00226.PNG</String></Pair>
+                <Pair key="title"><String>NiGHTS into dreams...</String></Pair>
+                <Pair key="info"><String>NPJB00226. Игра размер (8.0 GB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPJB00238_151">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPJB00238.PNG</String></Pair>
+                <Pair key="title"><String>Ni no Kuni: Wrath of the White Witch  (All-In-One Edition)</String></Pair>
+                <Pair key="info"><String>NPJB00238. Игра размер (9.69 GB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPJB70001_231">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPJB70001.PNG</String></Pair>
+                <Pair key="title"><String>NEOGEO STATION</String></Pair>
+                <Pair key="info"><String>NPJB70001. Игра размер (4.09 GB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPJB70002_232">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPJB70002.PNG</String></Pair>
+                <Pair key="title"><String>NEOGEO STATION</String></Pair>
+                <Pair key="info"><String>NPJB70002. Игра размер (316.78 MB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPJB70003_233">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPJB70003.PNG</String></Pair>
+                <Pair key="title"><String>NEOGEO STATION</String></Pair>
+                <Pair key="info"><String>NPJB70003. Игра размер (1.36 GB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPJB70004_234">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPJB70004.PNG</String></Pair>
+                <Pair key="title"><String>NEOGEO STATION</String></Pair>
+                <Pair key="info"><String>NPJB70004. Игра размер (177.12 MB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPJB70005_235">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPJB70005.PNG</String></Pair>
+                <Pair key="title"><String>NEOGEO STATION</String></Pair>
+                <Pair key="info"><String>NPJB70005. Игра размер (3.8 GB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPJB70006_236">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPJB70006.PNG</String></Pair>
+                <Pair key="title"><String>NEOGEO STATION</String></Pair>
+                <Pair key="info"><String>NPJB70006. Игра размер (16.06 GB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPJB70007_237">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPJB70007.PNG</String></Pair>
+                <Pair key="title"><String>NEOGEO STATION</String></Pair>
+                <Pair key="info"><String>NPJB70007. Игра размер (1.39 GB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPJB70008_238">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPJB70008.PNG</String></Pair>
+                <Pair key="title"><String>NEOGEO STATION</String></Pair>
+                <Pair key="info"><String>NPJB70008. Игра размер (14.82 GB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPJB70009_239">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPJB70009.PNG</String></Pair>
+                <Pair key="title"><String>NEOGEO STATION</String></Pair>
+                <Pair key="info"><String>NPJB70009. Игра размер (5.36 GB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPJB70010_240">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPJB70010.PNG</String></Pair>
+                <Pair key="title"><String>NEOGEO STATION</String></Pair>
+                <Pair key="info"><String>NPJB70010. Игра размер (2.61 GB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPJB70012_241">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPJB70012.PNG</String></Pair>
+                <Pair key="title"><String>NEOGEO STATION</String></Pair>
+                <Pair key="info"><String>NPJB70012. Игра размер (949.7 MB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPJB70013_242">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPJB70013.PNG</String></Pair>
+                <Pair key="title"><String>NEOGEO STATION</String></Pair>
+                <Pair key="info"><String>NPJB70013. Игра размер (675.39 MB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPJB70014_243">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPJB70014.PNG</String></Pair>
+                <Pair key="title"><String>NEOGEO STATION</String></Pair>
+                <Pair key="info"><String>NPJB70014. Игра размер (477.35 MB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPJB70015_244">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPJB70015.PNG</String></Pair>
+                <Pair key="title"><String>NEOGEO STATION</String></Pair>
+                <Pair key="info"><String>NPJB70015. Игра размер (396.72 MB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPJJ30027_265">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPJJ30027.PNG</String></Pair>
+                <Pair key="title"><String>NEUTOPIA</String></Pair>
+                <Pair key="info"><String>NPJJ30027. Игра размер (929.09 MB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPJJ30028_266">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPJJ30028.PNG</String></Pair>
+                <Pair key="title"><String>NEUTOPIA II</String></Pair>
+                <Pair key="info"><String>NPJJ30028. Игра размер (789.83 MB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPUA80319_363">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPUA80319.PNG</String></Pair>
+                <Pair key="title"><String>NUMBLAST™</String></Pair>
+                <Pair key="info"><String>NPUA80319. Игра размер (220.71 MB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPUB30025_437">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPUB30025.PNG</String></Pair>
+                <Pair key="title"><String>NovaStrike</String></Pair>
+                <Pair key="info"><String>NPUB30025. Игра размер (1.66 GB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPUB30032_440">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPUB30032.PNG</String></Pair>
+                <Pair key="title"><String>NOBY NOBY BOY™</String></Pair>
+                <Pair key="info"><String>NPUB30032. Игра размер (1.47 GB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPUB30086_471">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPUB30086.PNG</String></Pair>
+                <Pair key="title"><String>NAMCO MUSEUM ESSENTIALS™</String></Pair>
+                <Pair key="info"><String>NPUB30086. Игра размер (2.08 GB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPUB30146_498">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPUB30146.PNG</String></Pair>
+                <Pair key="title"><String>NBA Unrivaled</String></Pair>
+                <Pair key="info"><String>NPUB30146. Игра размер (10.06 GB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPUB30257_531">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPUB30257.PNG</String></Pair>
+                <Pair key="title"><String>NEOGEO STATION</String></Pair>
+                <Pair key="info"><String>NPUB30257. Игра размер (276.9 MB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPUB30258_532">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPUB30258.PNG</String></Pair>
+                <Pair key="title"><String>NEOGEO STATION</String></Pair>
+                <Pair key="info"><String>NPUB30258. Игра размер (6.58 GB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPUB30259_533">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPUB30259.PNG</String></Pair>
+                <Pair key="title"><String>NEOGEO STATION</String></Pair>
+                <Pair key="info"><String>NPUB30259. Игра размер (11.43 GB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPUB30260_534">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPUB30260.PNG</String></Pair>
+                <Pair key="title"><String>NEOGEO STATION</String></Pair>
+                <Pair key="info"><String>NPUB30260. Игра размер (2.17 GB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPUB30261_535">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPUB30261.PNG</String></Pair>
+                <Pair key="title"><String>NEOGEO STATION</String></Pair>
+                <Pair key="info"><String>NPUB30261. Игра размер (6.29 GB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPUB30262_536">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPUB30262.PNG</String></Pair>
+                <Pair key="title"><String>NEOGEO STATION</String></Pair>
+                <Pair key="info"><String>NPUB30262. Игра размер (18.56 GB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPUB30263_537">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPUB30263.PNG</String></Pair>
+                <Pair key="title"><String>NEOGEO STATION</String></Pair>
+                <Pair key="info"><String>NPUB30263. Игра размер (20.8 GB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPUB30264_538">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPUB30264.PNG</String></Pair>
+                <Pair key="title"><String>NEOGEO STATION</String></Pair>
+                <Pair key="info"><String>NPUB30264. Игра размер (714.98 MB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPUB30265_539">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPUB30265.PNG</String></Pair>
+                <Pair key="title"><String>NEOGEO STATION</String></Pair>
+                <Pair key="info"><String>NPUB30265. Игра размер (1.02 GB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPUB30266_540">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPUB30266.PNG</String></Pair>
+                <Pair key="title"><String>NEOGEO STATION</String></Pair>
+                <Pair key="info"><String>NPUB30266. Игра размер (1019.56 MB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPUB30448_603">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPUB30448.PNG</String></Pair>
+                <Pair key="title"><String>Nelson Tethers: Puzzle Agent</String></Pair>
+                <Pair key="info"><String>NPUB30448. Игра размер (256.09 MB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPUB30521_634">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPUB30521.PNG</String></Pair>
+                <Pair key="title"><String>Need for Speed™ Hot Pursuit</String></Pair>
+                <Pair key="info"><String>NPUB30521. Игра размер (419.02 MB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPUB30547_643">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPUB30547.PNG</String></Pair>
+                <Pair key="title"><String>NCAA® Football 12</String></Pair>
+                <Pair key="info"><String>NPUB30547. Игра размер (432.02 MB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPUB30664_695">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPUB30664.PNG</String></Pair>
+                <Pair key="title"><String>Need for Speed™ The Run</String></Pair>
+                <Pair key="info"><String>NPUB30664. Игра размер (167.95 MB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPUB30665_696">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPUB30665.PNG</String></Pair>
+                <Pair key="title"><String>NFL Blitz</String></Pair>
+                <Pair key="info"><String>NPUB30665. Игра размер (1.55 GB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPUB30753_731">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPUB30753.PNG</String></Pair>
+                <Pair key="title"><String>NCAA® Football 13</String></Pair>
+                <Pair key="info"><String>NPUB30753. Игра размер (1.8 GB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPUB30761_736">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPUB30761.PNG</String></Pair>
+                <Pair key="title"><String>NHL® 12</String></Pair>
+                <Pair key="info"><String>NPUB30761. Игра размер (33.79 MB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPUB30789_752">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPUB30789.PNG</String></Pair>
+                <Pair key="title"><String>Need for Speed™ Most Wanted</String></Pair>
+                <Pair key="info"><String>NPUB30789. Игра размер (2.38 GB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPUB30792_753">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPUB30792.PNG</String></Pair>
+                <Pair key="title"><String>NHL® 13 Early Release</String></Pair>
+                <Pair key="info"><String>NPUB30792. Игра размер (221.86 MB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPUB30798_756">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPUB30798.PNG</String></Pair>
+                <Pair key="title"><String>NiGHTS into dreams...</String></Pair>
+                <Pair key="info"><String>NPUB30798. Игра размер (6.23 GB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPUB30851_782">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPUB30851.PNG</String></Pair>
+                <Pair key="title"><String>NINJA GAIDEN Σ</String></Pair>
+                <Pair key="info"><String>NPUB30851. Игра размер (215.6 MB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPUB30852_783">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPUB30852.PNG</String></Pair>
+                <Pair key="title"><String>NINJA GAIDEN Σ2</String></Pair>
+                <Pair key="info"><String>NPUB30852. Игра размер (3.17 GB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPUB30932_809">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPUB30932.PNG</String></Pair>
+                <Pair key="title"><String>Ni no Kuni: Wrath of the White Witch</String></Pair>
+                <Pair key="info"><String>NPUB30932. Игра размер (7.31 GB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPUB31067_826">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPUB31067.PNG</String></Pair>
+                <Pair key="title"><String>Naughty Bear Gold Edition</String></Pair>
+                <Pair key="info"><String>NPUB31067. Игра размер (1.36 GB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPUB31184_873">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPUB31184.PNG</String></Pair>
+                <Pair key="title"><String>NINJA GAIDEN 3: Razor's Edge</String></Pair>
+                <Pair key="info"><String>NPUB31184. Игра размер (6.19 GB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPUB31311_920">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPUB31311.PNG</String></Pair>
+                <Pair key="title"><String>NBA 2K14</String></Pair>
+                <Pair key="info"><String>NPUB31311. Игра размер (4.97 GB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPUB31701_1022">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPUB31701.PNG</String></Pair>
+                <Pair key="title"><String>NOBUNAGA'S AMBITION: Sphere of Influence</String></Pair>
+                <Pair key="info"><String>NPUB31701. Игра размер (818.62 MB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPUB31719_1025">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPUB31719.PNG</String></Pair>
+                <Pair key="title"><String>Nova-111</String></Pair>
+                <Pair key="info"><String>NPUB31719. Игра размер (759.13 MB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPUB31786_1031">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPUB31786.PNG</String></Pair>
+                <Pair key="title"><String>NITROPLUS BLASTERZ -HEROINES INFINITE DUEL-</String></Pair>
+                <Pair key="info"><String>NPUB31786. Игра размер (5.42 GB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPUF30014_1050">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPUF30014.PNG</String></Pair>
+                <Pair key="title"><String>NEW ADVENTURE ISLAND</String></Pair>
+                <Pair key="info"><String>NPUF30014. Игра размер (269.5 MB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPUO00008_1052">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPUO00008.PNG</String></Pair>
+                <Pair key="title"><String>NHL GameCenter™</String></Pair>
+                <Pair key="info"><String>NPUO00008. Игра размер (22.89 GB) и Rap: 3 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPUP31340_1060">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPUP31340.PNG</String></Pair>
+                <Pair key="title"><String>NHL</String></Pair>
+                <Pair key="info"><String>NPUP31340. Игра размер (1.97 GB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPJB00006_093"
+                attr="NPJB00006_093"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_N_lnk.xml#NPJB00006_093"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPJB00147_128"
+                attr="NPJB00147_128"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_N_lnk.xml#NPJB00147_128"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPJB00226_145"
+                attr="NPJB00226_145"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_N_lnk.xml#NPJB00226_145"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPJB00238_151"
+                attr="NPJB00238_151"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_N_lnk.xml#NPJB00238_151"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPJB70001_231"
+                attr="NPJB70001_231"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_N_lnk.xml#NPJB70001_231"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPJB70002_232"
+                attr="NPJB70002_232"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_N_lnk.xml#NPJB70002_232"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPJB70003_233"
+                attr="NPJB70003_233"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_N_lnk.xml#NPJB70003_233"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPJB70004_234"
+                attr="NPJB70004_234"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_N_lnk.xml#NPJB70004_234"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPJB70005_235"
+                attr="NPJB70005_235"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_N_lnk.xml#NPJB70005_235"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPJB70006_236"
+                attr="NPJB70006_236"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_N_lnk.xml#NPJB70006_236"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPJB70007_237"
+                attr="NPJB70007_237"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_N_lnk.xml#NPJB70007_237"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPJB70008_238"
+                attr="NPJB70008_238"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_N_lnk.xml#NPJB70008_238"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPJB70009_239"
+                attr="NPJB70009_239"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_N_lnk.xml#NPJB70009_239"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPJB70010_240"
+                attr="NPJB70010_240"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_N_lnk.xml#NPJB70010_240"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPJB70012_241"
+                attr="NPJB70012_241"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_N_lnk.xml#NPJB70012_241"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPJB70013_242"
+                attr="NPJB70013_242"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_N_lnk.xml#NPJB70013_242"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPJB70014_243"
+                attr="NPJB70014_243"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_N_lnk.xml#NPJB70014_243"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPJB70015_244"
+                attr="NPJB70015_244"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_N_lnk.xml#NPJB70015_244"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPJJ30027_265"
+                attr="NPJJ30027_265"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_N_lnk.xml#NPJJ30027_265"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPJJ30028_266"
+                attr="NPJJ30028_266"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_N_lnk.xml#NPJJ30028_266"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPUA80319_363"
+                attr="NPUA80319_363"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_N_lnk.xml#NPUA80319_363"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPUB30025_437"
+                attr="NPUB30025_437"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_N_lnk.xml#NPUB30025_437"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPUB30032_440"
+                attr="NPUB30032_440"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_N_lnk.xml#NPUB30032_440"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPUB30086_471"
+                attr="NPUB30086_471"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_N_lnk.xml#NPUB30086_471"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPUB30146_498"
+                attr="NPUB30146_498"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_N_lnk.xml#NPUB30146_498"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPUB30257_531"
+                attr="NPUB30257_531"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_N_lnk.xml#NPUB30257_531"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPUB30258_532"
+                attr="NPUB30258_532"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_N_lnk.xml#NPUB30258_532"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPUB30259_533"
+                attr="NPUB30259_533"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_N_lnk.xml#NPUB30259_533"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPUB30260_534"
+                attr="NPUB30260_534"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_N_lnk.xml#NPUB30260_534"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPUB30261_535"
+                attr="NPUB30261_535"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_N_lnk.xml#NPUB30261_535"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPUB30262_536"
+                attr="NPUB30262_536"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_N_lnk.xml#NPUB30262_536"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPUB30263_537"
+                attr="NPUB30263_537"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_N_lnk.xml#NPUB30263_537"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPUB30264_538"
+                attr="NPUB30264_538"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_N_lnk.xml#NPUB30264_538"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPUB30265_539"
+                attr="NPUB30265_539"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_N_lnk.xml#NPUB30265_539"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPUB30266_540"
+                attr="NPUB30266_540"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_N_lnk.xml#NPUB30266_540"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPUB30448_603"
+                attr="NPUB30448_603"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_N_lnk.xml#NPUB30448_603"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPUB30521_634"
+                attr="NPUB30521_634"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_N_lnk.xml#NPUB30521_634"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPUB30547_643"
+                attr="NPUB30547_643"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_N_lnk.xml#NPUB30547_643"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPUB30664_695"
+                attr="NPUB30664_695"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_N_lnk.xml#NPUB30664_695"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPUB30665_696"
+                attr="NPUB30665_696"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_N_lnk.xml#NPUB30665_696"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPUB30753_731"
+                attr="NPUB30753_731"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_N_lnk.xml#NPUB30753_731"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPUB30761_736"
+                attr="NPUB30761_736"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_N_lnk.xml#NPUB30761_736"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPUB30789_752"
+                attr="NPUB30789_752"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_N_lnk.xml#NPUB30789_752"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPUB30792_753"
+                attr="NPUB30792_753"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_N_lnk.xml#NPUB30792_753"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPUB30798_756"
+                attr="NPUB30798_756"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_N_lnk.xml#NPUB30798_756"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPUB30851_782"
+                attr="NPUB30851_782"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_N_lnk.xml#NPUB30851_782"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPUB30852_783"
+                attr="NPUB30852_783"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_N_lnk.xml#NPUB30852_783"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPUB30932_809"
+                attr="NPUB30932_809"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_N_lnk.xml#NPUB30932_809"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPUB31067_826"
+                attr="NPUB31067_826"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_N_lnk.xml#NPUB31067_826"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPUB31184_873"
+                attr="NPUB31184_873"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_N_lnk.xml#NPUB31184_873"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPUB31311_920"
+                attr="NPUB31311_920"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_N_lnk.xml#NPUB31311_920"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPUB31701_1022"
+                attr="NPUB31701_1022"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_N_lnk.xml#NPUB31701_1022"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPUB31719_1025"
+                attr="NPUB31719_1025"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_N_lnk.xml#NPUB31719_1025"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPUB31786_1031"
+                attr="NPUB31786_1031"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_N_lnk.xml#NPUB31786_1031"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPUF30014_1050"
+                attr="NPUF30014_1050"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_N_lnk.xml#NPUF30014_1050"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPUO00008_1052"
+                attr="NPUO00008_1052"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_N_lnk.xml#NPUO00008_1052"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPUP31340_1060"
+                attr="NPUP31340_1060"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_N_lnk.xml#NPUP31340_1060"
+            />
+        </Items>
+    </View>
+
+</XMBML>

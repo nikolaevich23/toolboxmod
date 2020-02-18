@@ -31,24 +31,42 @@
                 <Pair key="info"><String>BLES01597. Чит к версии: 01.02</String></Pair>
                 <Pair key="ingame"><String>disable</String></Pair>
             </Table>
+			<Table key="NPUB31066_010">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/PSNEU/Dead Island</String></Pair>
+                <Pair key="title"><String>Dead Island</String></Pair>
+                <Pair key="info"><String>NPUB31066. Чит к версии: 01.00</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+			<Table key="BLES00308_048">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMAGES/IMAGESPS3GAMES/Dead Space</String></Pair>
+                <Pair key="title"><String>Dead Space™</String></Pair>
+                <Pair key="info"><String>BLES00308. Чит к версии: 01.00</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+			<Table key="BLES01041_047">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMAGES/IMAGESPS3GAME/Dead Space 2</String></Pair>
+                <Pair key="title"><String>Dead Space™ 2 1.02 EN/ES/IT/RU</String></Pair>
+                <Pair key="info"><String>BLES01041. Чит к версии: 01.02</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+			<Table key="NPEB00550_008">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/PSNEU/Dead Space 2</String></Pair>
+                <Pair key="title"><String>Dead Space™ 2 Standard HDD EN/ES/IT/RU</String></Pair>
+                <Pair key="info"><String>NPEB00550. Чит к версии: 01.00</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
             <Table key="BLES01733_046">
                 <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMAGES/IMAGESPS3GAME/Dead Space 3</String></Pair>
                 <Pair key="title"><String>Dead Space™ 3</String></Pair>
                 <Pair key="info"><String>BLES01733. Чит к версии: 01.02</String></Pair>
                 <Pair key="ingame"><String>disable</String></Pair>
             </Table>
-            <Table key="BLES01041_047">
-                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMAGES/IMAGESPS3GAME/Dead Space 2</String></Pair>
-                <Pair key="title"><String>Dead Space™ 2 1.02 EN/ES/IT/RU</String></Pair>
-                <Pair key="info"><String>BLES01041. Чит к версии: 01.02</String></Pair>
+			<Table key="NPEB01146_009">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/PSNEU/Dead Space 3</String></Pair>
+                <Pair key="title"><String>Dead Space™ 3 HDD</String></Pair>
+                <Pair key="info"><String>NPEB01146. Чит к версии: 01.02</String></Pair>
                 <Pair key="ingame"><String>disable</String></Pair>
-            </Table>
-            <Table key="BLES00308_048">
-                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMAGES/IMAGESPS3GAMES/Dead Space</String></Pair>
-                <Pair key="title"><String>Dead Space™</String></Pair>
-                <Pair key="info"><String>BLES00308. Чит к версии: 01.00</String></Pair>
-                <Pair key="ingame"><String>disable</String></Pair>
-            </Table>
+            </Table>			
             <Table key="BLUS31146_049">
                 <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMAGES/IMAGESPS3GAMES/Deadpool</String></Pair>
                 <Pair key="title"><String>Deadpool</String></Pair>
@@ -101,6 +119,12 @@
                 <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMAGES/IMAGESPS3GAME/Doom 3.BFG Edition</String></Pair>
                 <Pair key="title"><String>Doom 3 BFG Edition Additional Content</String></Pair>
                 <Pair key="info"><String>BLES01679. Чит к версии: 01.01</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+			<Table key="NPEB01122_002">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/PSNEU/DOOM 3 BFG Edition</String></Pair>
+                <Pair key="title"><String>Doom 3 BFG Edition</String></Pair>
+                <Pair key="info"><String>NPEB01122. Чит к версии: 01.01</String></Pair>
                 <Pair key="ingame"><String>disable</String></Pair>
             </Table>
             <Table key="BLES01147_058">
@@ -183,24 +207,42 @@
                 attr="BLES01597_045"
                 src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_D_lnk.xml#BLES01597_045"
             />
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPUB31066_010"
+                attr="NPUB31066_010"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_D_lnk.xml#NPUB31066_010"
+            />
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="BLES00308_048"
+                attr="BLES00308_048"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_D_lnk.xml#BLES00308_048"
+            />
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="BLES01041_047"
+                attr="BLES01041_047"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_D_lnk.xml#BLES01041_047"
+            />
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPEB00550_008"
+                attr="NPEB00550_008"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_D_lnk.xml#NPEB00550_008"
+            />
             <Query
                 class="type:x-xmb/folder-pixmap"
                 key="BLES01733_046"
                 attr="BLES01733_046"
                 src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_D_lnk.xml#BLES01733_046"
             />
-            <Query
+			<Query
                 class="type:x-xmb/folder-pixmap"
-                key="BLES01041_047"
-                attr="BLES01041_047"
-                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_D_lnk.xml#BLES01041_047"
-            />
-            <Query
-                class="type:x-xmb/folder-pixmap"
-                key="BLES00308_048"
-                attr="BLES00308_048"
-                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_D_lnk.xml#BLES00308_048"
-            />
+                key="NPEB01146_009"
+                attr="NPEB01146_009"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_D_lnk.xml#NPEB01146_009"
+            />			
             <Query
                 class="type:x-xmb/folder-pixmap"
                 key="BLUS31146_049"
@@ -254,6 +296,12 @@
                 key="BLES01679_057"
                 attr="BLES01679_057"
                 src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_D_lnk.xml#BLES01679_057"
+            />
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPEB01122_002"
+                attr="NPEB01122_002"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_D_lnk.xml#NPEB01122_002"
             />
             <Query
                 class="type:x-xmb/folder-pixmap"

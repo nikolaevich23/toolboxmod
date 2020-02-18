@@ -1,0 +1,27 @@
+﻿<XMBML version="1.0">
+    <View id="NPEB02458_057">
+        <Attributes>
+            <Table key="link_061">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP0546/NPEB02458_00/EP0546-NPEB02458_00-G99VIDASXX000001_bg_1_5adf91d195c41e94422a98e28c71b05c19f12fb9.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP0546/NPEB02458_00/EP0546-NPEB02458_00-G99VIDASXX000001_bg_1_5adf91d195c41e94422a98e28c71b05c19f12fb9.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP0546-NPEB02458_00-G99VIDASXX000001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/icon/dg</String></Pair>
+            </Table>
+            <Table key="link_001">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://www.dropbox.com/s/q8zvpozoi8gw4oj/NPEB02458.pkg?dl=1</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/q8zvpozoi8gw4oj/NPEB02458.pkg?dl=1</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>CUSTOM-INSTALLER_00-0000000000000000</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/icon/dpr</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="link_061" attr="link_061"/>
+            <Item class="type:x-xmb/xmlnpsignup" key="link_001" attr="link_001"/>
+        </Items>
+    </View>
+
+﻿</XMBML>
