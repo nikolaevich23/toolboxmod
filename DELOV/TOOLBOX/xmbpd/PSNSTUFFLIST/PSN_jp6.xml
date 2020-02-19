@@ -1,0 +1,68 @@
+<XMBML version="1.0">
+    <View id="pkg_items">
+        <Attributes>
+            <Table key="NPJB00227_146">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPJB00227.PNG</String></Pair>
+                <Pair key="title"><String>ぎゃる☆がん 体験版</String></Pair>
+                <Pair key="info"><String>NPJB00227. Игра размер (1.07 GB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+			<Table key="NPJB00075_108">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPJB00075.PNG</String></Pair>
+                <Pair key="title"><String>グリードコープ</String></Pair>
+                <Pair key="info"><String>NPJB00075. Игра размер (623.44 MB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+			<Table key="NPJB00128_123">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPJB00128.PNG</String></Pair>
+                <Pair key="title"><String>コミックスゾーン</String></Pair>
+                <Pair key="info"><String>NPJB00128. Игра размер (83.79 MB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+			<Table key="NPJB00090_113">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPJB00090.PNG</String></Pair>
+                <Pair key="title"><String>ザ･スーパー忍</String></Pair>
+                <Pair key="info"><String>NPJB00090. Игра размер (514.49 MB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+			<Table key="NPJB00619_202">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPJB00619.PNG</String></Pair>
+                <Pair key="title"><String>シャリーのアトリエ</String></Pair>
+                <Pair key="info"><String>NPJB00619. Игра размер (6.3 GB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>			
+        </Attributes>
+        <Items>
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPJB00227_146"
+                attr="NPJB00227_146"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_ぎ_lnk.xml#NPJB00227_146"
+            />
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPJB00075_108"
+                attr="NPJB00075_108"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_グ_lnk.xml#NPJB00075_108"
+            />
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPJB00128_123"
+                attr="NPJB00128_123"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_コ_lnk.xml#NPJB00128_123"
+            />
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPJB00090_113"
+                attr="NPJB00090_113"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_ザ_lnk.xml#NPJB00090_113"
+            />
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPJB00619_202"
+                attr="NPJB00619_202"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_シ_lnk.xml#NPJB00619_202"
+            />
+        </Items>
+    </View>
+</XMBML>

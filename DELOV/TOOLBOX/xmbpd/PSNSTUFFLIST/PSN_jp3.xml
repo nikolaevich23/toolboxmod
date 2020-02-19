@@ -1,0 +1,21 @@
+<XMBML version="1.0">
+    <View id="pkg_items">
+        <Attributes>
+            <Table key="NPJB00072_106">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPJB00072.PNG</String></Pair>
+                <Pair key="title"><String>いっき おんらいん</String></Pair>
+                <Pair key="info"><String>NPJB00072. Игра размер (366.94 MB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPJB00072_106"
+                attr="NPJB00072_106"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_jp3_lnk.xml#NPJB00072_106"
+            />
+        </Items>
+    </View>
+
+</XMBML>

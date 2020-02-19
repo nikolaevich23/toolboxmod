@@ -108,7 +108,85 @@
                 <Pair key="title"><String>Disgaea3</String></Pair>
                 <Pair key="info"><String>NPUB31766. Игра и Патч: 1 pkg</String></Pair>
                 <Pair key="ingame"><String>disable</String></Pair>
-            </Table>  
+            </Table>
+			<Table key="NPUB30556_000">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPUB30556.PNG</String></Pair>
+                <Pair key="title"><String>Disney Bolt</String></Pair>
+                <Pair key="info"><String>NPUB30556. Игра размер (4.96 GB) и другие файлы: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPUB31279_001">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPUB31279.PNG</String></Pair>
+                <Pair key="title"><String>Divekick</String></Pair>
+                <Pair key="info"><String>NPUB31279. Игра размер (679.01 MB) и другие файлы: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPUB31161_002">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPUB31161.PNG</String></Pair>
+                <Pair key="title"><String>Do Not Fall</String></Pair>
+                <Pair key="info"><String>NPUB31161. Игра размер (665.05 MB) и другие файлы: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPUB30765_006">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPUB30765.PNG</String></Pair>
+                <Pair key="title"><String>Doc Clock™ : The Toasted Sandwich of Time</String></Pair>
+                <Pair key="info"><String>NPUB30765. Игра размер (297.79 MB) и другие файлы: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPUB30751_007">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPUB30751.PNG</String></Pair>
+                <Pair key="title"><String>Doctor Who: The Eternity Clock</String></Pair>
+                <Pair key="info"><String>NPUB30751. Игра размер (1.41 GB) и другие файлы: 3 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPUB30993_008">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPUB30993.PNG</String></Pair>
+                <Pair key="title"><String>Dogfight 1942</String></Pair>
+                <Pair key="info"><String>NPUB30993. Игра размер (2.66 GB) и другие файлы: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPEA00460_009">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPEA00460.PNG</String></Pair>
+                <Pair key="title"><String>Doki-Doki Universe™</String></Pair>
+                <Pair key="info"><String>NPEA00460. Игра размер (514.21 MB) и другие файлы: 3 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPEB02315_010">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/PSNEU/Doodle Devil</String></Pair>
+                <Pair key="title"><String>Doodle Devil</String></Pair>
+                <Pair key="info"><String>NPEB02315. Игра размер (74.58 MB) и другие файлы: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+			<Table key="NPEB01233_000">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/PSNEU/Doodle God</String></Pair>
+                <Pair key="title"><String>Doodle God</String></Pair>
+                <Pair key="info"><String>NPEB01233. Игра размер (66.77 MB) и другие файлы: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPEB02316_001">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/PSNEU/Doodle Kingdom</String></Pair>
+                <Pair key="title"><String>Doodle Kingdom</String></Pair>
+                <Pair key="info"><String>NPEB02316. Игра размер (113.19 MB) и другие файлы: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPUB30808_002">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPUB30808.PNG</String></Pair>
+                <Pair key="title"><String>DOOM Classic Complete</String></Pair>
+                <Pair key="info"><String>NPUB30808. Игра размер (102.25 MB) и другие файлы: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPUB30766_003">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPUB30766.PNG</String></Pair>
+                <Pair key="title"><String>Dragon Age™: Inquisition</String></Pair>
+                <Pair key="info"><String>NPUB30766. Игра размер (16.64 GB) и другие файлы: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPUB30476_004">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPUB30476.PNG</String></Pair>
+                <Pair key="title"><String>Dragon Age II</String></Pair>
+                <Pair key="info"><String>NPUB30476. Игра размер (6.23 GB) и другие файлы: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>			
         </Attributes>
         <Items>
             <Query
@@ -218,7 +296,85 @@
                 key="NPUB31766_000"
                 attr="NPUB31766_000"
                 src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/ZAY/pspx_D_lnk.xml#NPUB31766_000"
-            /> 
+            />
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPUB30556_000"
+                attr="NPUB30556_000"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/ZAY/pspx_D_lnk.xml#NPUB30556_000"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPUB31279_001"
+                attr="NPUB31279_001"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/ZAY/pspx_D_lnk.xml#NPUB31279_001"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPUB31161_002"
+                attr="NPUB31161_002"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/ZAY/pspx_D_lnk.xml#NPUB31161_002"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPUB30765_006"
+                attr="NPUB30765_006"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/ZAY/pspx_D_lnk.xml#NPUB30765_006"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPUB30751_007"
+                attr="NPUB30751_007"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/ZAY/pspx_D_lnk.xml#NPUB30751_007"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPUB30993_008"
+                attr="NPUB30993_008"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/ZAY/pspx_D_lnk.xml#NPUB30993_008"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPEA00460_009"
+                attr="NPEA00460_009"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/ZAY/pspx_D_lnk.xml#NPEA00460_009"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPEB02315_010"
+                attr="NPEB02315_010"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/ZAY/pspx_D_lnk.xml#NPEB02315_010"
+            />
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPEB01233_000"
+                attr="NPEB01233_000"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/ZAY/pspx_D_lnk.xml#NPEB01233_000"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPEB02316_001"
+                attr="NPEB02316_001"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/ZAY/pspx_D_lnk.xml#NPEB02316_001"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPUB30808_002"
+                attr="NPUB30808_002"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/ZAY/pspx_D_lnk.xml#NPUB30808_002"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPUB30766_003"
+                attr="NPUB30766_003"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/ZAY/pspx_D_lnk.xml#NPUB30766_003"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPUB30476_004"
+                attr="NPUB30476_004"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/ZAY/pspx_D_lnk.xml#NPUB30476_004"
+            />			
         </Items>
     </View>
 

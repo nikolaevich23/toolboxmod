@@ -6,10 +6,10 @@
 					<String>/dev_hdd0/game/HENTOOLBX/USRDIR/icon/tex_xmbpd_psn</String>
 				</Pair>
 				<Pair key="title">
-					<String>0-9</String>
+					<String>0-9 и JPN</String>
 				</Pair>
 				<Pair key="info">
-					<String>Игры от 0 до 9, а также японские игры</String>
+					<String>Игры от 0 до 9, а также Японские игры</String>
 				</Pair>
 				<Pair key="ingame">
 					<String>disable</String>
@@ -97,17 +97,31 @@
 	</View>
 	<View id="PSN_0_items">
 		<Items>
-			<Query class="type:x-xmb/folder-pixmap" key="app_hdd0_file1" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_0.xml#pkg_items"/>
-			<Query class="type:x-xmb/folder-pixmap" key="app_hdd0_file2" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_1.xml#pkg_items"/>
-			<Query class="type:x-xmb/folder-pixmap" key="app_hdd0_file3" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_2.xml#pkg_items"/>
-			<Query class="type:x-xmb/folder-pixmap" key="app_hdd0_file4" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_3.xml#pkg_items"/>
-			<Query class="type:x-xmb/folder-pixmap" key="app_hdd0_file5" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_4.xml#pkg_items"/>
-			<Query class="type:x-xmb/folder-pixmap" key="app_hdd0_file6" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_5.xml#pkg_items"/>
-			<Query class="type:x-xmb/folder-pixmap" key="app_hdd0_file7" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_6.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="app_hdd0_file0" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_0.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="app_hdd0_file1" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_1.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="app_hdd0_file2" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_2.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="app_hdd0_file3" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_3.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="app_hdd0_file4" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_4.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="app_hdd0_file5" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_5.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="app_hdd0_file6" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_6.xml#pkg_items"/>
 			<Query class="type:x-xmb/folder-pixmap" key="app_hdd0_file7" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_7.xml#pkg_items"/>
-			<Query class="type:x-xmb/folder-pixmap" key="app_hdd0_file7" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_8.xml#pkg_items"/>
-			<Query class="type:x-xmb/folder-pixmap" key="app_hdd0_file7" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_9.xml#pkg_items"/>
-			<Query class="type:x-xmb/folder-pixmap" key="app_hdd0_file7" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_『.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="app_hdd0_file8" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_8.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="app_hdd0_file9" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_9.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="app_hdd0_filejp1" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_jp1.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="app_hdd0_filejp2" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_jp2.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="app_hdd0_filejp3" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_jp3.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="app_hdd0_filejp4" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_jp4.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="app_hdd0_filejp5" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_jp5.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="app_hdd0_filejp6" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_jp6.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="app_hdd0_filejp7" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_jp7.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="app_hdd0_filejp8" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_jp8.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="app_hdd0_filejp9" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_jp9.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="app_hdd0_filejp10" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_jp10.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="app_hdd0_filejp11" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_jp11.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="app_hdd0_filejp12" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_jp12.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="app_hdd0_filejp13" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_jp13.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="app_hdd0_filejp14" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_jp14.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="app_hdd0_filejp15" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_jp15.xml#pkg_items"/>
 		</Items>
 	</View>
 	<View id="PSN_ag_items">

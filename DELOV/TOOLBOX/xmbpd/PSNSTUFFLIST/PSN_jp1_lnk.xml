@@ -1,0 +1,52 @@
+﻿<XMBML version="1.0">
+    <View id="NPJB00645_203">
+        <Attributes>
+            <Table key="link_222">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/JP0230/NPJB00645_00/GJVdCzpyZORxqgtqGNAVIFEYFOKYDTSTLkAfTKCTGLMdtfwxGdNGcCWAXlBSksBNmTvTpskkHEromBEdwbJsOfmDmsjxtCmONWAcH.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/JP0230/NPJB00645_00/GJVdCzpyZORxqgtqGNAVIFEYFOKYDTSTLkAfTKCTGLMdtfwxGdNGcCWAXlBSksBNmTvTpskkHEromBEdwbJsOfmDmsjxtCmONWAcH.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>JP0230-NPJB00645_00-BLPRESEQUELPSN01</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/icon/dg</String></Pair>
+            </Table>
+            <Table key="link_001">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://www.dropbox.com/s/qwnef0lcce50usl/NPJB00645.pkg?dl=1</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/qwnef0lcce50usl/NPJB00645.pkg?dl=1</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>CUSTOM-INSTALLER_00-0000000000000000</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/icon/dpr</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="link_222" attr="link_222"/>
+            <Item class="type:x-xmb/xmlnpsignup" key="link_001" attr="link_001"/>
+        </Items>
+    </View>
+
+    <View id="NPJB60191_230">
+        <Attributes>
+            <Table key="link_249">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/JP0507/NPJB60191_00/cscnTPxjMyhCLeQATOMgeshdinTaKrKXCRUvAgWhkCyiIFxDRsdmSPlDOklnlwpfIpjOqJlpzCwoFhlUkFHyfqIvkNsxsEBJdVZVW.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/JP0507/NPJB60191_00/cscnTPxjMyhCLeQATOMgeshdinTaKrKXCRUvAgWhkCyiIFxDRsdmSPlDOklnlwpfIpjOqJlpzCwoFhlUkFHyfqIvkNsxsEBJdVZVW.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>JP0507-NPJB60191_00-KAGURA0VALHALLA0</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/icon/dg</String></Pair>
+            </Table>
+            <Table key="link_001">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://www.dropbox.com/s/ln9ij6afckn03ul/NPJB60191.pkg?dl=1</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/ln9ij6afckn03ul/NPJB60191.pkg?dl=1</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>CUSTOM-INSTALLER_00-0000000000000000</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/icon/dpr</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="link_249" attr="link_249"/>
+            <Item class="type:x-xmb/xmlnpsignup" key="link_001" attr="link_001"/>
+        </Items>
+    </View>
+
+﻿</XMBML>

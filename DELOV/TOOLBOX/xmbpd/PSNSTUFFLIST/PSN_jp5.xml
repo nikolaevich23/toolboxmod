@@ -1,0 +1,69 @@
+<XMBML version="1.0">
+    <View id="pkg_items">
+        <Attributes>
+            <Table key="NPJB00235_149">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPJB00235.PNG</String></Pair>
+                <Pair key="title"><String>エクストルーパーズ</String></Pair>
+                <Pair key="info"><String>NPJB00235. Игра размер (5.0 GB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPJB00247_152">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPJB00247.PNG</String></Pair>
+                <Pair key="title"><String>エンド ウォー</String></Pair>
+                <Pair key="info"><String>NPJB00247. Игра размер (2.25 GB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPJB60153_226">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPJB60153.PNG</String></Pair>
+                <Pair key="title"><String>エスカ＆ロジ―のアトリエ～黄昏の空の錬金術士～黄昏の世界の記録Vol.1</String></Pair>
+                <Pair key="info"><String>NPJB60153. Игра размер (8.67 GB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPJB60157_227">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPJB60157.PNG</String></Pair>
+                <Pair key="title"><String>エスカ＆ロジ―のアトリエ～黄昏の空の錬金術士～黄昏の世界の記録Vol.2</String></Pair>
+                <Pair key="info"><String>NPJB60157. Игра размер (14.27 GB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPJB60158_228">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPJB60158.PNG</String></Pair>
+                <Pair key="title"><String>エスカ＆ロジ―のアトリエ～黄昏の空の錬金術士～黄昏の世界の記録Vol.3</String></Pair>
+                <Pair key="info"><String>NPJB60158. Игра размер (9.5 GB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPJB00235_149"
+                attr="NPJB00235_149"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_jp5_lnk.xml#NPJB00235_149"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPJB00247_152"
+                attr="NPJB00247_152"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_jp5_lnk.xml#NPJB00247_152"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPJB60153_226"
+                attr="NPJB60153_226"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_jp5_lnk.xml#NPJB60153_226"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPJB60157_227"
+                attr="NPJB60157_227"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_jp5_lnk.xml#NPJB60157_227"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPJB60158_228"
+                attr="NPJB60158_228"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_jp5_lnk.xml#NPJB60158_228"
+            />
+        </Items>
+    </View>
+
+</XMBML>

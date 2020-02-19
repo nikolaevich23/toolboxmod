@@ -1,0 +1,69 @@
+<XMBML version="1.0">
+    <View id="pkg_items">
+        <Attributes>
+            <Table key="NPJB00074_107">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPJB00074.PNG</String></Pair>
+                <Pair key="title"><String>アストロトリッパー</String></Pair>
+                <Pair key="info"><String>NPJB00074. Игра размер (525.81 MB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPJB00094_117">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPJB00094.PNG</String></Pair>
+                <Pair key="title"><String>アレックスキッドのミラクルワールド</String></Pair>
+                <Pair key="info"><String>NPJB00094. Игра размер (318.34 MB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPJB00486_188">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPJB00486.PNG</String></Pair>
+                <Pair key="title"><String>アイマス チャンネル</String></Pair>
+                <Pair key="info"><String>NPJB00486. Игра размер (1.47 GB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPJB00573_194">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPJB00573.PNG</String></Pair>
+                <Pair key="title"><String>アルノサージュ</String></Pair>
+                <Pair key="info"><String>NPJB00573. Игра размер (3.99 GB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPJB00611_199">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPJB00611.PNG</String></Pair>
+                <Pair key="title"><String>アイドルマスター ワンフォーオール</String></Pair>
+                <Pair key="info"><String>NPJB00611. Игра размер (6.6 GB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPJB00074_107"
+                attr="NPJB00074_107"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_jp2_lnk.xml#NPJB00074_107"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPJB00094_117"
+                attr="NPJB00094_117"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_jp2_lnk.xml#NPJB00094_117"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPJB00486_188"
+                attr="NPJB00486_188"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_jp2_lnk.xml#NPJB00486_188"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPJB00573_194"
+                attr="NPJB00573_194"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_jp2_lnk.xml#NPJB00573_194"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPJB00611_199"
+                attr="NPJB00611_199"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_jp2_lnk.xml#NPJB00611_199"
+            />
+        </Items>
+    </View>
+
+</XMBML>

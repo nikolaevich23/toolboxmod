@@ -791,5 +791,347 @@
             <Item class="type:x-xmb/xmlnpsignup" key="link_002" attr="link_002"/>
         </Items>
     </View>
+    <View id="NPUB30556_000">
+        <Attributes>
+            <Table key="link_000">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/UP1082/NPUB30556_00/OYYGuOHqhkalLSuEFeQMlmDSyOLdJfuSSskaEhgQeaZuPMNbclpMcmMIxCLhwWIoffrspfafkuIQdBaNeRrAtoQhoQCKsGdxMxbZD.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/UP1082/NPUB30556_00/OYYGuOHqhkalLSuEFeQMlmDSyOLdJfuSSskaEhgQeaZuPMNbclpMcmMIxCLhwWIoffrspfafkuIQdBaNeRrAtoQhoQCKsGdxMxbZD.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>UP1082-NPUB30556_00-BOLTDLG000000001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/icon/dg</String></Pair>
+            </Table>
+            <Table key="link_001">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/I_ymOV7gRvzjQw</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/I_ymOV7gRvzjQw</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>1GAME0-NPUB30556_00-NPUB305560000001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/icon/df</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="link_000" attr="link_000"/>
+            <Item class="type:x-xmb/xmlnpsignup" key="link_001" attr="link_001"/>
+        </Items>
+    </View>
+
+    <View id="NPUB31279_001">
+        <Attributes>
+            <Table key="link_002">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://b0.ww.np.dl.playstation.net/tppkg/np/NPUB31279/NPUB31279_T9/077cd9216c90ccd7/UP4372-NPUB31279_00-DIVEKICKPS300001-A0108-V0100-PE.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://b0.ww.np.dl.playstation.net/tppkg/np/NPUB31279/NPUB31279_T9/077cd9216c90ccd7/UP4372-NPUB31279_00-DIVEKICKPS300001-A0108-V0100-PE.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>UP4372-NPUB31279_00-DIVEKICKPS300001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/icon/dp</String></Pair>
+            </Table>
+            <Table key="link_003">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/bVcS-zWDvC1P-g</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/bVcS-zWDvC1P-g</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>1GAME0-NPUB31279_00-NPUB312790000001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/icon/df</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="link_002" attr="link_002"/>
+            <Item class="type:x-xmb/xmlnpsignup" key="link_003" attr="link_003"/>
+        </Items>
+    </View>
+
+    <View id="NPUB31161_002">
+        <Attributes>
+            <Table key="link_004">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/UP5010/NPUB31161_00/BrqKGsPiRzrpgtliDGbxtVGAzmbbTiirLzEzYAImQKSiDLqrFJallXuivrfcFNtD.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/UP5010/NPUB31161_00/BrqKGsPiRzrpgtliDGbxtVGAzmbbTiirLzEzYAImQKSiDLqrFJallXuivrfcFNtD.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>UP5010-NPUB31161_00-DNF00USA00000000</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/icon/dg</String></Pair>
+            </Table>
+            <Table key="link_005">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/UR-Vkwfc49ho2A</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/UR-Vkwfc49ho2A</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>1GAME0-NPUB31161_00-NPUB311610000001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/icon/df</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="link_004" attr="link_004"/>
+            <Item class="type:x-xmb/xmlnpsignup" key="link_005" attr="link_005"/>
+        </Items>
+    </View>
+
+    <View id="NPUB30765_006">
+        <Attributes>
+            <Table key="link_012">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/UP4308/NPUB30765_00/PRZFEGEfayawbQxusvliWQyjybPpCFIBUdqzqIdHQIOArGDJdvslePjqBoTPuSsfKqZxYTxFcIvaatLRawfmqPZEVcjIkqEEOwvwG.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/UP4308/NPUB30765_00/PRZFEGEfayawbQxusvliWQyjybPpCFIBUdqzqIdHQIOArGDJdvslePjqBoTPuSsfKqZxYTxFcIvaatLRawfmqPZEVcjIkqEEOwvwG.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>UP4308-NPUB30765_00-DOCCLOCKTTSOT001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/icon/dg</String></Pair>
+            </Table>
+            <Table key="link_013">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/YgvX7wiGA_O6bg</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/YgvX7wiGA_O6bg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>1GAME0-NPUB30765_00-NPUB307650000001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/icon/df</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="link_012" attr="link_012"/>
+            <Item class="type:x-xmb/xmlnpsignup" key="link_013" attr="link_013"/>
+        </Items>
+    </View>
+
+    <View id="NPUB30751_007">
+        <Attributes>
+            <Table key="link_014">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/UP2066/NPUB30751_00/TAVqNEZpVcIEgXtLTfiWhYtbezjUwMiCgZBlKyZhhfhFUQOZqNBCKODftKomXuUAUWbNGoMbWLwYDfOUNwJkaKmWGtkyPMXLLnlVC.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/UP2066/NPUB30751_00/TAVqNEZpVcIEgXtLTfiWhYtbezjUwMiCgZBlKyZhhfhFUQOZqNBCKODftKomXuUAUWbNGoMbWLwYDfOUNwJkaKmWGtkyPMXLLnlVC.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>UP2066-NPUB30751_00-DWTECPS3UGAME001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/icon/dg</String></Pair>
+            </Table>
+            <Table key="link_015">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://b0.ww.np.dl.playstation.net/tppkg/np/NPUB30751/NPUB30751_T0/4fbdc854e309239f/UP2066-NPUB30751_00-DWTECPS3UGAME001-A0101-V0100-PE.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://b0.ww.np.dl.playstation.net/tppkg/np/NPUB30751/NPUB30751_T0/4fbdc854e309239f/UP2066-NPUB30751_00-DWTECPS3UGAME001-A0101-V0100-PE.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>UP2066-NPUB30751_00-DWTECPS3UGAME001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/icon/dp</String></Pair>
+            </Table>
+            <Table key="link_016">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/QvkH_TNH89u86g</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/QvkH_TNH89u86g</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>1GAME0-NPUB30751_00-NPUB307510000001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/icon/df</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="link_014" attr="link_014"/>
+            <Item class="type:x-xmb/xmlnpsignup" key="link_015" attr="link_015"/>
+            <Item class="type:x-xmb/xmlnpsignup" key="link_016" attr="link_016"/>
+        </Items>
+    </View>
+
+    <View id="NPUB30993_008">
+        <Attributes>
+            <Table key="link_017">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/UP4321/NPUB30993_00/LvDpwmgJKIZLqSIeXnVUxBuJxyGUBAhdfLnivAGyRpuLLNLnASyHMZkHTnLJOQZp.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/UP4321/NPUB30993_00/LvDpwmgJKIZLqSIeXnVUxBuJxyGUBAhdfLnivAGyRpuLLNLnASyHMZkHTnLJOQZp.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>UP4321-NPUB30993_00-DOGFIGHT1942GAME</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/icon/dg</String></Pair>
+            </Table>
+            <Table key="link_018">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/y_P9_cXSjUDxbg</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/y_P9_cXSjUDxbg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>1GAME0-NPUB30993_00-NPUB309930000001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/icon/df</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="link_017" attr="link_017"/>
+            <Item class="type:x-xmb/xmlnpsignup" key="link_018" attr="link_018"/>
+        </Items>
+    </View>
+
+    <View id="NPEA00460_009">
+        <Attributes>
+            <Table key="link_019">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEA00460_00/SOSsMntojTuLueHZkVlaQVuhLnFHoUCkjdyBnJmLplXEZJmYVAzycglynkSflXAk.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEA00460_00/SOSsMntojTuLueHZkVlaQVuhLnFHoUCkjdyBnJmLplXEZJmYVAzycglynkSflXAk.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP9000-NPEA00460_00-DDU0000000000000</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/icon/dg</String></Pair>
+            </Table>
+            <Table key="link_020">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://b0.ww.np.dl.playstation.net/tppkg/np/NPEA00460/NPEA00460_T1/854e609cf28aee3e/EP9000-NPEA00460_00-DDU0000000000000-A0102-V0100-PE.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://b0.ww.np.dl.playstation.net/tppkg/np/NPEA00460/NPEA00460_T1/854e609cf28aee3e/EP9000-NPEA00460_00-DDU0000000000000-A0102-V0100-PE.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP9000-NPEA00460_00-DDU0000000000000</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/icon/dp</String></Pair>
+            </Table>
+            <Table key="link_021">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/A7SQm5Dw86VYHw</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/A7SQm5Dw86VYHw</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>1GAME0-NPEA00460_00-NPEA004600000001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/icon/df</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="link_019" attr="link_019"/>
+            <Item class="type:x-xmb/xmlnpsignup" key="link_020" attr="link_020"/>
+            <Item class="type:x-xmb/xmlnpsignup" key="link_021" attr="link_021"/>
+        </Items>
+    </View>
+
+    <View id="NPEB02315_010">
+        <Attributes>
+            <Table key="link_022">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP4384/NPEB02315_00/EP4384-NPEB02315_00-DOODLEDEVILPS30E_bg_1_65071772df9efd2c62e861cffa50986e939ec9c3.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP4384/NPEB02315_00/EP4384-NPEB02315_00-DOODLEDEVILPS30E_bg_1_65071772df9efd2c62e861cffa50986e939ec9c3.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP4384-NPEB02315_00-DOODLEDEVILPS30E</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/icon/dg</String></Pair>
+            </Table>
+            <Table key="link_023">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/csgobUx13vtTuA</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/csgobUx13vtTuA</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>1GAME0-NPEB02315_00-NPEB023150000001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/icon/df</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="link_022" attr="link_022"/>
+            <Item class="type:x-xmb/xmlnpsignup" key="link_023" attr="link_023"/>
+        </Items>
+    </View>
+
+    <View id="NPEB01233_000">
+        <Attributes>
+            <Table key="link_000">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP4384/NPEB01233_00/EP4384-NPEB01233_00-DOODLEGODPS3000E_bg_1_15300164e715a3c3c1b9c8f1438c552834953fbb.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP4384/NPEB01233_00/EP4384-NPEB01233_00-DOODLEGODPS3000E_bg_1_15300164e715a3c3c1b9c8f1438c552834953fbb.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP4384-NPEB01233_00-DOODLEGODPS3000E</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/icon/dg</String></Pair>
+            </Table>
+            <Table key="link_001">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/pPZDAXGQJl-hqA</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/pPZDAXGQJl-hqA</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>1GAME0-NPEB01233_00-NPEB012330000001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/icon/df</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="link_000" attr="link_000"/>
+            <Item class="type:x-xmb/xmlnpsignup" key="link_001" attr="link_001"/>
+        </Items>
+    </View>
+
+    <View id="NPEB02316_001">
+        <Attributes>
+            <Table key="link_002">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP4384/NPEB02316_00/EP4384-NPEB02316_00-DKPS30000000000E_bg_1_1c3fe14380788d65f0e8981f6fdf6402c5a71506.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP4384/NPEB02316_00/EP4384-NPEB02316_00-DKPS30000000000E_bg_1_1c3fe14380788d65f0e8981f6fdf6402c5a71506.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP4384-NPEB02316_00-DKPS30000000000E</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/icon/dg</String></Pair>
+            </Table>
+            <Table key="link_003">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/K2SvLQdmUAKaiw</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/K2SvLQdmUAKaiw</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>1GAME0-NPEB02316_00-NPEB023160000001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/icon/df</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="link_002" attr="link_002"/>
+            <Item class="type:x-xmb/xmlnpsignup" key="link_003" attr="link_003"/>
+        </Items>
+    </View>
+
+    <View id="NPUB30808_002">
+        <Attributes>
+            <Table key="link_004">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/UP1003/NPUB30808_00/IFuVQVyggfcNSguDdViarIOWlrxcFqJXHmlETdHypuwEQuCsOBqvgaAARRxWcwUR.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/UP1003/NPUB30808_00/IFuVQVyggfcNSguDdViarIOWlrxcFqJXHmlETdHypuwEQuCsOBqvgaAARRxWcwUR.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>UP1003-NPUB30808_00-DOOMCOMPLETEPACK</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/icon/dg</String></Pair>
+            </Table>
+            <Table key="link_005">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/NL-AwJz05QWgPA</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/NL-AwJz05QWgPA</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>1GAME0-NPUB30808_00-NPUB308080000001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/icon/df</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="link_004" attr="link_004"/>
+            <Item class="type:x-xmb/xmlnpsignup" key="link_005" attr="link_005"/>
+        </Items>
+    </View>
+
+    <View id="NPUB30766_003">
+        <Attributes>
+            <Table key="link_006">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/UP0006/NPUB30766_00/edrpqnTqUFngEfxKzWrbzVqKQckoBucKnSfXXVNbyKvkUSZRWkyjfXdcegVEJGyvrwLCWBkuRBxvTilKkVowsWCfeGoOjmPORRLQg.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/UP0006/NPUB30766_00/edrpqnTqUFngEfxKzWrbzVqKQckoBucKnSfXXVNbyKvkUSZRWkyjfXdcegVEJGyvrwLCWBkuRBxvTilKkVowsWCfeGoOjmPORRLQg.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>UP0006-NPUB30766_00-DAINQUISITION000</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/icon/dg</String></Pair>
+            </Table>
+            <Table key="link_007">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/zSAEHsRJjZxyoQ</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/zSAEHsRJjZxyoQ</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>1GAME0-NPUB30766_00-NPUB307660000001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/icon/df</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="link_006" attr="link_006"/>
+            <Item class="type:x-xmb/xmlnpsignup" key="link_007" attr="link_007"/>
+        </Items>
+    </View>
+
+    <View id="NPUB30476_004">
+        <Attributes>
+            <Table key="link_008">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/UP0006/NPUB30476_00/DEtafACTVGlxKfHTTPnhAKaTOGmLWBMXGrrroRUwZXXwGzfQUqXECvmZnjITthvdNgVYjaQunVGlwoMAxkKfGPhsRVZGVUqvtJdMW.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/UP0006/NPUB30476_00/DEtafACTVGlxKfHTTPnhAKaTOGmLWBMXGrrroRUwZXXwGzfQUqXECvmZnjITthvdNgVYjaQunVGlwoMAxkKfGPhsRVZGVUqvtJdMW.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>UP0006-NPUB30476_00-DA2HDDDOWNLOAD00</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/icon/dg</String></Pair>
+            </Table>
+            <Table key="link_009">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/QfzS-8Dth92Cog</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/QfzS-8Dth92Cog</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>1GAME0-NPUB30476_00-NPUB304760000001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/icon/df</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="link_008" attr="link_008"/>
+            <Item class="type:x-xmb/xmlnpsignup" key="link_009" attr="link_009"/>
+        </Items>
+    </View>
 
 ﻿</XMBML>
