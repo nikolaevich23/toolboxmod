@@ -37,31 +37,31 @@
                 class="type:x-xmb/folder-pixmap"
                 key="NPJB00227_146"
                 attr="NPJB00227_146"
-                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_ぎ_lnk.xml#NPJB00227_146"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_jp6_lnk.xml#NPJB00227_146"
             />
 			<Query
                 class="type:x-xmb/folder-pixmap"
                 key="NPJB00075_108"
                 attr="NPJB00075_108"
-                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_グ_lnk.xml#NPJB00075_108"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_jp6_lnk.xml#NPJB00075_108"
             />
 			<Query
                 class="type:x-xmb/folder-pixmap"
                 key="NPJB00128_123"
                 attr="NPJB00128_123"
-                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_コ_lnk.xml#NPJB00128_123"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_jp6_lnk.xml#NPJB00128_123"
             />
 			<Query
                 class="type:x-xmb/folder-pixmap"
                 key="NPJB00090_113"
                 attr="NPJB00090_113"
-                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_ザ_lnk.xml#NPJB00090_113"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_jp6_lnk.xml#NPJB00090_113"
             />
 			<Query
                 class="type:x-xmb/folder-pixmap"
                 key="NPJB00619_202"
                 attr="NPJB00619_202"
-                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_シ_lnk.xml#NPJB00619_202"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_jp6_lnk.xml#NPJB00619_202"
             />
         </Items>
     </View>

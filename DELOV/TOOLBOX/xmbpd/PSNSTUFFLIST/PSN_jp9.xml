@@ -1,0 +1,45 @@
+<XMBML version="1.0">
+    <View id="pkg_items">
+        <Attributes>
+            <Table key="NPJB00422_180">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPJB00422.PNG</String></Pair>
+                <Pair key="title"><String>戦国BASARA4</String></Pair>
+                <Pair key="info"><String>NPJB00422. Игра размер (1.73 GB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPJB00534_191">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPJB00534.PNG</String></Pair>
+                <Pair key="title"><String>戦国無双４</String></Pair>
+                <Pair key="info"><String>NPJB00534. Игра размер (96.88 MB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPJB00805_220">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPJB00805.PNG</String></Pair>
+                <Pair key="title"><String>戦国BASARA 真田幸村伝</String></Pair>
+                <Pair key="info"><String>NPJB00805. Игра размер (540.45 MB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPJB00422_180"
+                attr="NPJB00422_180"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_jp9_lnk.xml#NPJB00422_180"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPJB00534_191"
+                attr="NPJB00534_191"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_jp9_lnk.xml#NPJB00534_191"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPJB00805_220"
+                attr="NPJB00805_220"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_jp9_lnk.xml#NPJB00805_220"
+            />
+        </Items>
+    </View>
+
+</XMBML>

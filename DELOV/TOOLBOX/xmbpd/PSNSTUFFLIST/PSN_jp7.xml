@@ -1,0 +1,105 @@
+<XMBML version="1.0">
+    <View id="pkg_items">
+        <Attributes>
+            <Table key="NPJA00022_081">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPJA00022.PNG</String></Pair>
+                <Pair key="title"><String>スネークボール™</String></Pair>
+                <Pair key="info"><String>NPJA00022. Игра размер (25.69 MB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPJB00093_116">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPJB00093.PNG</String></Pair>
+                <Pair key="title"><String>スーパーハングオン</String></Pair>
+                <Pair key="info"><String>NPJB00093. Игра размер (47.66 MB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPJB00106_119">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPJB00106.PNG</String></Pair>
+                <Pair key="title"><String>スペースチャンネル5　パート2</String></Pair>
+                <Pair key="info"><String>NPJB00106. Игра размер (1.52 GB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPJB00289_156">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPJB00289.PNG</String></Pair>
+                <Pair key="title"><String>スペランカーコレクション</String></Pair>
+                <Pair key="info"><String>NPJB00289. Игра размер (2.2 GB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+			<Table key="NPJB00618_201">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPJB00618.PNG</String></Pair>
+                <Pair key="title"><String>ダウンタウン 熱血行進曲</String></Pair>
+                <Pair key="info"><String>NPJB00618. Игра размер (1.82 GB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+			<Table key="NPJB00346_166">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPJB00346.PNG</String></Pair>
+                <Pair key="title"><String>ドリームクラブComplete Edipyon</String></Pair>
+                <Pair key="info"><String>NPJB00346. Игра размер (1.39 GB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+			<Table key="NPJB00416_178">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPJB00416.PNG</String></Pair>
+                <Pair key="title"><String>テイルズ オブ シンフォニア</String></Pair>
+                <Pair key="info"><String>NPJB00416. Игра размер (2.69 GB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPJB00421_179">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPJB00421.PNG</String></Pair>
+                <Pair key="title"><String>テイルズ オブ シンフォニア -ラタトスクの騎士-</String></Pair>
+                <Pair key="info"><String>NPJB00421. Игра размер (2.69 GB) и Rap: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>			
+        </Attributes>
+        <Items>
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPJA00022_081"
+                attr="NPJA00022_081"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_jp7_lnk.xml#NPJA00022_081"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPJB00093_116"
+                attr="NPJB00093_116"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_jp7_lnk.xml#NPJB00093_116"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPJB00106_119"
+                attr="NPJB00106_119"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_jp7_lnk.xml#NPJB00106_119"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPJB00289_156"
+                attr="NPJB00289_156"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_jp7_lnk.xml#NPJB00289_156"
+            />
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPJB00618_201"
+                attr="NPJB00618_201"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_jp7_lnk.xml#NPJB00618_201"
+            />
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPJB00346_166"
+                attr="NPJB00346_166"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_jp7_lnk.xml#NPJB00346_166"
+            />
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPJB00416_178"
+                attr="NPJB00416_178"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_jp7_lnk.xml#NPJB00416_178"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPJB00421_179"
+                attr="NPJB00421_179"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSNSTUFFLIST/PSN_jp7_lnk.xml#NPJB00421_179"
+            />
+        </Items>
+    </View>
+
+</XMBML>
