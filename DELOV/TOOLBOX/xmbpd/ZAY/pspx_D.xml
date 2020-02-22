@@ -211,6 +211,84 @@
                 <Pair key="info"><String>NPEB00828. Игра размер (4.35 GB) и другие файлы: 2 pkg</String></Pair>
                 <Pair key="ingame"><String>disable</String></Pair>
             </Table>
+			<Table key="NPEB02096_000">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/PSNEU/Dragon Fin Soup</String></Pair>
+                <Pair key="title"><String>Dragon Fin Soup</String></Pair>
+                <Pair key="info"><String>NPEB02096. Игра размер (431.11 MB) и другие файлы: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPEB01836_001">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/PSNEU/Dragons Crown</String></Pair>
+                <Pair key="title"><String>Dragon's Crown</String></Pair>
+                <Pair key="info"><String>NPEB01836. Игра размер (1.31 GB) и другие файлы: 3 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPEB01268_002">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/PSNEU/Dragons Dogma Dark Arisen</String></Pair>
+                <Pair key="title"><String>Dragon's Crown</String></Pair>
+                <Pair key="info"><String>NPEB01268. Игра размер (11.51 GB) и другие файлы: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPUB30217_003">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPUB30217.PNG</String></Pair>
+                <Pair key="title"><String>Dragon's Lair</String></Pair>
+                <Pair key="info"><String>NPUB30217. Игра размер (975.54 MB) и другие файлы: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPUB30390_004">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPUB30390.PNG</String></Pair>
+                <Pair key="title"><String>Dragon's Lair II: Time Warp</String></Pair>
+                <Pair key="info"><String>NPUB30390. Игра размер (1.25 GB) и другие файлы: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPEB00632_005">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/PSNEU/Driver San Fransisco</String></Pair>
+                <Pair key="title"><String>DRIVER San Francisco</String></Pair>
+                <Pair key="info"><String>NPEB00632. Игра размер (8.99 GB) и другие файлы: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPUB30057_006">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPUB30057.PNG</String></Pair>
+                <Pair key="title"><String>Droplitz</String></Pair>
+                <Pair key="info"><String>NPUB30057. Игра размер (143.27 MB) и другие файлы: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPEB01882_007">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/PSNEU/Duke Nukem 3D - Megaton Edition</String></Pair>
+                <Pair key="title"><String>Duke Nukem 3D: Megaton Edition</String></Pair>
+                <Pair key="info"><String>NPEB01882. Игра размер (750.13 MB) и другие файлы: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPUB30846_008">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPUB30846.PNG</String></Pair>
+                <Pair key="title"><String>DYNASTY WARRIORS 7 Empires</String></Pair>
+                <Pair key="info"><String>NPUB30846. Игра размер (7.91 GB) и другие файлы: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPEB01364_009">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/PSNEU/DYNASTY WARRIORS 8</String></Pair>
+                <Pair key="title"><String>DYNASTY WARRIORS 8</String></Pair>
+                <Pair key="info"><String>NPEB01364. Игра размер (18.2 GB) и другие файлы: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPUB31656_010">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPUB31656.PNG</String></Pair>
+                <Pair key="title"><String>DYNASTY WARRIORS 8 Empires</String></Pair>
+                <Pair key="info"><String>NPUB31656. Игра размер (14.33 GB) и другие файлы: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPEB01970_011">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPEB01970.PNG</String></Pair>
+                <Pair key="title"><String>DYNASTY WARRIORS 8: Xtreme Legends</String></Pair>
+                <Pair key="info"><String>NPEB01970. Игра размер (22.63 GB) и другие файлы: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPUB31531_012">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPUB31531.PNG</String></Pair>
+                <Pair key="title"><String>DYNASTY WARRIORS: GUNDAM Reborn</String></Pair>
+                <Pair key="info"><String>NPUB31531. Игра размер (10.87 GB) и другие файлы: 2 pkg</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
         </Attributes>
         <Items>
             <Query
@@ -422,7 +500,85 @@
                 key="NPEB00828_003"
                 attr="NPEB00828_003"
                 src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/ZAY/pspx_D_lnk.xml#NPEB00828_003"
-            />	
+            />
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPEB02096_000"
+                attr="NPEB02096_000"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/ZAY/pspx_D_lnk.xml#NPEB02096_000"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPEB01836_001"
+                attr="NPEB01836_001"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/ZAY/pspx_D_lnk.xml#NPEB01836_001"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPEB01268_002"
+                attr="NPEB01268_002"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/ZAY/pspx_D_lnk.xml#NPEB01268_002"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPUB30217_003"
+                attr="NPUB30217_003"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/ZAY/pspx_D_lnk.xml#NPUB30217_003"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPUB30390_004"
+                attr="NPUB30390_004"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/ZAY/pspx_D_lnk.xml#NPUB30390_004"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPEB00632_005"
+                attr="NPEB00632_005"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/ZAY/pspx_D_lnk.xml#NPEB00632_005"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPUB30057_006"
+                attr="NPUB30057_006"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/ZAY/pspx_D_lnk.xml#NPUB30057_006"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPEB01882_007"
+                attr="NPEB01882_007"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/ZAY/pspx_D_lnk.xml#NPEB01882_007"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPUB30846_008"
+                attr="NPUB30846_008"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/ZAY/pspx_D_lnk.xml#NPUB30846_008"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPEB01364_009"
+                attr="NPEB01364_009"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/ZAY/pspx_D_lnk.xml#NPEB01364_009"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPUB31656_010"
+                attr="NPUB31656_010"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/ZAY/pspx_D_lnk.xml#NPUB31656_010"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPEB01970_011"
+                attr="NPEB01970_011"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/ZAY/pspx_D_lnk.xml#NPEB01970_011"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPUB31531_012"
+                attr="NPUB31531_012"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/ZAY/pspx_D_lnk.xml#NPUB31531_012"
+            />
         </Items>
     </View>
 
