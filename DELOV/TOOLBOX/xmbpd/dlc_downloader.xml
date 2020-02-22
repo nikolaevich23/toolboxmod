@@ -1,39 +1,6 @@
 <XMBML version="1.0">
 	<View id="dlc_downloader_items">
-		<Attributes>
-			<Table key="Contenido_DLC_US">
-				<Pair key="icon">
-					<String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/dlc_images/dlcUS</String>
-				</Pair>
-				<Pair key="title">
-					<String>DLC США</String>
-				</Pair>
-				<Pair key="info">
-					<String>Скачиваем и устанавливаем DLC из PSN (требуются файлы лицензии rap/rif)</String>
-				</Pair>
-			</Table>
-			<Table key="Contenido_DLC_EU">
-				<Pair key="icon">
-					<String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/dlc_images/dlcEU</String>
-				</Pair>
-				<Pair key="title">
-					<String>DLC Европы</String>
-				</Pair>
-				<Pair key="info">
-					<String>Скачиваем и устанавливаем DLC из PSN (требуются файлы лицензии rap/rif)</String>
-				</Pair>
-			</Table>
-			<Table key="dlc_exclusiva">
-				<Pair key="icon">
-					<String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/dlc_images/dlcUS</String>
-				</Pair>
-				<Pair key="title">
-					<String>DLC США от TCXS</String>
-				</Pair>
-				<Pair key="info">
-					<String>Скачиваем и устанавливаем DLC из PSN (требуются файлы лицензии rap/rif)</String>
-				</Pair>
-			</Table>
+		<Attributes>			
 			<Table key="DLC">
 				<Pair key="icon">
 					<String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMAGES/IMAGESDOWLOADER/DLC</String>
@@ -59,11 +26,8 @@
 			</Table>
 		</Attributes>
 		<Items>
-			<Query class="type:x-xmb/folder-pixmap" key="Contenido_DLC_US" attr="Contenido_DLC_US" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/Contenido_DLC_US.xml#Contenido_DLC_US_items"/>
-			<Query class="type:x-xmb/folder-pixmap" key="Contenido_DLC_EU" attr="Contenido_DLC_EU" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/Contenido_DLC_EU.xml#Contenido_DLC_EU_items"/>
-			<Query class="type:x-xmb/folder-pixmap" key="dlc_exclusiva" attr="dlc_exclusiva" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/dlc_exclusiva.xml#dlc_exclusiva_items"/>
 			<Query class="type:x-xmb/folder-pixmap" key="mod" attr="mod" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/Mod_Menu.xml#Mod_Menu_items"/>
-			<Query class="type:x-xmb/folder-pixmap" key="DLC" attr="DLC" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/FEATURES/PS3_DLC_Game.xml#PS3_DLC_Game_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="DLC" attr="DLC" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/dlc.xml#dlc"/>
 		</Items>
 	</View>
 </XMBML>

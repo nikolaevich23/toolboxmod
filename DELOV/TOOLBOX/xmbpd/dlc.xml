@@ -1,0 +1,165 @@
+<XMBML version="1.0">
+	<View id="dlc">
+		<Attributes>
+			<Table key="psn_0">
+				<Pair key="icon">
+					<String>/dev_hdd0/game/HENTOOLBX/USRDIR/icon/tex_xmbpd_psn</String>
+				</Pair>
+				<Pair key="title">
+					<String>0-9</String>
+				</Pair>
+				<Pair key="info">
+					<String>DLC от 0 до 9</String>
+				</Pair>
+				<Pair key="ingame">
+					<String>disable</String>
+				</Pair>
+				<Pair key="child">
+					<String>segment</String>
+				</Pair>
+			</Table>
+			<Table key="psn_ag">
+				<Pair key="icon">
+					<String>/dev_hdd0/game/HENTOOLBX/USRDIR/icon/tex_xmbpd_psn</String>
+				</Pair>
+				<Pair key="title">
+					<String>A-G</String>
+				</Pair>
+				<Pair key="info">
+					<String>DLC от A до G</String>
+				</Pair>
+				<Pair key="ingame">
+					<String>disable</String>
+				</Pair>
+				<Pair key="child">
+					<String>segment</String>
+				</Pair>
+			</Table>
+			<Table key="psn_hm">
+				<Pair key="icon">
+					<String>/dev_hdd0/game/HENTOOLBX/USRDIR/icon/tex_xmbpd_psn</String>
+				</Pair>
+				<Pair key="title">
+					<String>H-M</String>
+				</Pair>
+				<Pair key="info">
+					<String>DLC от H до M</String>
+				</Pair>
+				<Pair key="ingame">
+					<String>disable</String>
+				</Pair>
+				<Pair key="child">
+					<String>segment</String>
+				</Pair>
+			</Table>
+			<Table key="psn_ns">
+				<Pair key="icon">
+					<String>/dev_hdd0/game/HENTOOLBX/USRDIR/icon/tex_xmbpd_psn</String>
+				</Pair>
+				<Pair key="title">
+					<String>N-S</String>
+				</Pair>
+				<Pair key="info">
+					<String>DLC от N до S</String>
+				</Pair>
+				<Pair key="ingame">
+					<String>disable</String>
+				</Pair>
+				<Pair key="child">
+					<String>segment</String>
+				</Pair>
+			</Table>
+			<Table key="psn_tz">
+				<Pair key="icon">
+					<String>/dev_hdd0/game/HENTOOLBX/USRDIR/icon/tex_xmbpd_psn</String>
+				</Pair>
+				<Pair key="title">
+					<String>T-Z</String>
+				</Pair>
+				<Pair key="info">
+					<String>DLC от T до Z</String>
+				</Pair>
+				<Pair key="ingame">
+					<String>disable</String>
+				</Pair>
+				<Pair key="child">
+					<String>segment</String>
+				</Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlpackagefolder" key="psn_0" attr="psn_0" src="#psn_0_items"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="psn_ag" attr="psn_ag" src="#psn_ag_items"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="psn_hm" attr="psn_hm" src="#psn_hm_items"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="psn_ns" attr="psn_ns" src="#psn_ns_items"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="psn_tz" attr="psn_tz" src="#psn_tz_items"/>
+		</Items>
+	</View>
+	<View id="psn_0_items">
+		<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="01" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/DLC/DLC_0.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="02" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/DLC/DLC_1.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="03" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/DLC/DLC_2.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="04" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/DLC/DLC_3.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="05" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/DLC/DLC_4.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="06" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/DLC/DLC_5.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="07" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/DLC/DLC_6.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="08" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/DLC/DLC_7.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="09" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/DLC/DLC_8.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="10" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/DLC/DLC_9.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="jp1" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/DLC/DLC_jp1.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="jp2" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/DLC/DLC_jp2.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="jp3" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/DLC/DLC_jp3.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="jp4" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/DLC/DLC_jp4.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="jp5" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/DLC/DLC_jp5.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="jp6" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/DLC/DLC_jp6.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="jp7" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/DLC/DLC_jp7.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="jp8" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/DLC/DLC_jp8.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="jp9" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/DLC/DLC_jp9.xml#pkg_items"/>
+			
+		</Items>
+	</View>
+	<View id="psn_ag_items">
+		<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="11" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/DLC/DLC_A.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="12" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/DLC/DLC_B.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="13" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/DLC/DLC_C.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="14" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/DLC/DLC_D.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="15" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/DLC/DLC_E.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="16" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/DLC/DLC_F.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="17" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/DLC/DLC_G.xml#pkg_items"/>			
+		</Items>
+	</View>
+	<View id="psn_hm_items">
+		<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="18" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/DLC/DLC_H.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="19" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/DLC/DLC_I.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="20" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/DLC/DLC_J.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="21" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/DLC/DLC_K.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="22" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/DLC/DLC_L.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="23" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/DLC/DLC_M.xml#pkg_items"/>
+		</Items>
+	</View>
+	<View id="psn_ns_items">
+		<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="24" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/DLC/DLC_N.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="25" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/DLC/DLC_O.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="26" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/DLC/DLC_P.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="27" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/DLC/DLC_Q.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="28" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/DLC/DLC_R.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="29" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/DLC/DLC_S.xml#pkg_items"/>
+		</Items>
+	</View>
+	<View id="psn_tz_items">
+		<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="30" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/DLC/DLC_T.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="31" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/DLC/DLC_U.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="32" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/DLC/DLC_V.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="33" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/DLC/DLC_W.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="34" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/DLC/DLC_X.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="35" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/DLC/DLC_Y.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="36" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/DLC/DLC_Z.xml#pkg_items"/>
+		</Items>
+	</View>
+		
+</XMBML>
