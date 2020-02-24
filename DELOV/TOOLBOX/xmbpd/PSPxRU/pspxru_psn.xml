@@ -97,59 +97,60 @@
 	</View>
 	<View id="psn_0_items">
 		<Items>
-			<Query class="type:x-xmb/folder-pixmap" key="app_hdd0_file1" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSPxRU/pspx_0.xml#pkg_items"/>
-			<Query class="type:x-xmb/folder-pixmap" key="app_hdd0_file2" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSPxRU/pspx_1.xml#pkg_items"/>
-			<Query class="type:x-xmb/folder-pixmap" key="app_hdd0_file3" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSPxRU/pspx_2.xml#pkg_items"/>
-			<Query class="type:x-xmb/folder-pixmap" key="app_hdd0_file4" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSPxRU/pspx_3.xml#pkg_items"/>
-			<Query class="type:x-xmb/folder-pixmap" key="app_hdd0_file5" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSPxRU/pspx_4.xml#pkg_items"/>
-			<Query class="type:x-xmb/folder-pixmap" key="app_hdd0_file6" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSPxRU/pspx_5.xml#pkg_items"/>
-			<Query class="type:x-xmb/folder-pixmap" key="app_hdd0_file7" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSPxRU/pspx_6.xml#pkg_items"/>
-			<Query class="type:x-xmb/folder-pixmap" key="app_hdd0_file7" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSPxRU/pspx_7.xml#pkg_items"/>
-			<Query class="type:x-xmb/folder-pixmap" key="app_hdd0_file7" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSPxRU/pspx_8.xml#pkg_items"/>
-			<Query class="type:x-xmb/folder-pixmap" key="app_hdd0_file7" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSPxRU/pspx_9.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="e1" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSPxRU/pspx_0.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="e2" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSPxRU/pspx_1.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="e3" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSPxRU/pspx_2.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="e4" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSPxRU/pspx_3.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="e5" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSPxRU/pspx_4.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="e6" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSPxRU/pspx_5.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="e7" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSPxRU/pspx_6.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="e8" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSPxRU/pspx_7.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="e9" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSPxRU/pspx_8.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="e0" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSPxRU/pspx_9.xml#pkg_items"/>
 		</Items>
 	</View>
 	<View id="psn_ag_items">
 		<Items>
-			<Query class="type:x-xmb/folder-pixmap" key="app_hdd0_file1" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSPxRU/pspx_A.xml#pkg_items"/>
-			<Query class="type:x-xmb/folder-pixmap" key="app_hdd0_file2" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSPxRU/pspx_B.xml#pkg_items"/>
-			<Query class="type:x-xmb/folder-pixmap" key="app_hdd0_file3" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSPxRU/pspx_C.xml#pkg_items"/>
-			<Query class="type:x-xmb/folder-pixmap" key="app_hdd0_file4" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSPxRU/pspx_D.xml#pkg_items"/>
-			<Query class="type:x-xmb/folder-pixmap" key="app_hdd0_file5" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSPxRU/pspx_E.xml#pkg_items"/>
-			<Query class="type:x-xmb/folder-pixmap" key="app_hdd0_file6" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSPxRU/pspx_F.xml#pkg_items"/>
-			<Query class="type:x-xmb/folder-pixmap" key="app_hdd0_file7" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSPxRU/pspx_G.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="a1" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSPxRU/pspx_A.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="a2" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSPxRU/pspx_B.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="a3" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSPxRU/pspx_C.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="a4" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSPxRU/pspx_D.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="42" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSPxRU/pspx_D2.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="a5" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSPxRU/pspx_E.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="a6" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSPxRU/pspx_F.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="a7" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSPxRU/pspx_G.xml#pkg_items"/>
 		</Items>
 	</View>
 	<View id="psn_hm_items">
 		<Items>
-			<Query class="type:x-xmb/folder-pixmap" key="app_hdd0_file8" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSPxRU/pspx_H.xml#pkg_items"/>
-			<Query class="type:x-xmb/folder-pixmap" key="app_hdd0_file9" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSPxRU/pspx_I.xml#pkg_items"/>
-			<Query class="type:x-xmb/folder-pixmap" key="app_hdd0_file10" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSPxRU/pspx_J.xml#pkg_items"/>
-			<Query class="type:x-xmb/folder-pixmap" key="app_hdd0_file11" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSPxRU/pspx_K.xml#pkg_items"/>
-			<Query class="type:x-xmb/folder-pixmap" key="app_hdd0_file12" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSPxRU/pspx_L.xml#pkg_items"/>
-			<Query class="type:x-xmb/folder-pixmap" key="app_hdd0_file13" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSPxRU/pspx_M.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="e8" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSPxRU/pspx_H.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="e9" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSPxRU/pspx_I.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="e10" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSPxRU/pspx_J.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="e11" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSPxRU/pspx_K.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="e12" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSPxRU/pspx_L.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="e13" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSPxRU/pspx_M.xml#pkg_items"/>
 		</Items>
 	</View>
 	<View id="psn_ns_items">
 		<Items>
-			<Query class="type:x-xmb/folder-pixmap" key="app_hdd0_file14" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSPxRU/pspx_N.xml#pkg_items"/>
-			<Query class="type:x-xmb/folder-pixmap" key="app_hdd0_file15" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSPxRU/pspx_O.xml#pkg_items"/>
-			<Query class="type:x-xmb/folder-pixmap" key="app_hdd0_file16" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSPxRU/pspx_P.xml#pkg_items"/>
-			<Query class="type:x-xmb/folder-pixmap" key="app_hdd0_file17" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSPxRU/pspx_Q.xml#pkg_items"/>
-			<Query class="type:x-xmb/folder-pixmap" key="app_hdd0_file18" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSPxRU/pspx_R.xml#pkg_items"/>
-			<Query class="type:x-xmb/folder-pixmap" key="app_hdd0_file19" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSPxRU/pspx_S.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="e14" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSPxRU/pspx_N.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="e15" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSPxRU/pspx_O.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="e16" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSPxRU/pspx_P.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="e17" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSPxRU/pspx_Q.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="e18" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSPxRU/pspx_R.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="e19" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSPxRU/pspx_S.xml#pkg_items"/>
 		</Items>
 	</View>
 	<View id="psn_tz_items">
 		<Items>
-			<Query class="type:x-xmb/folder-pixmap" key="app_hdd0_file20" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSPxRU/pspx_T.xml#pkg_items"/>
-			<Query class="type:x-xmb/folder-pixmap" key="app_hdd0_file21" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSPxRU/pspx_U.xml#pkg_items"/>
-			<Query class="type:x-xmb/folder-pixmap" key="app_hdd0_file22" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSPxRU/pspx_V.xml#pkg_items"/>
-			<Query class="type:x-xmb/folder-pixmap" key="app_hdd0_file23" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSPxRU/pspx_W.xml#pkg_items"/>
-			<Query class="type:x-xmb/folder-pixmap" key="app_hdd0_file24" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSPxRU/pspx_X.xml#pkg_items"/>
-			<Query class="type:x-xmb/folder-pixmap" key="app_hdd0_file25" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSPxRU/pspx_Y.xml#pkg_items"/>
-			<Query class="type:x-xmb/folder-pixmap" key="app_hdd0_file26" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSPxRU/pspx_Z.xml#pkg_items"/>
-			<Query class="type:x-xmb/folder-pixmap" key="app_hdd0_file27" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSPxRU/pspx_0.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="e20" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSPxRU/pspx_T.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="e21" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSPxRU/pspx_U.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="e22" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSPxRU/pspx_V.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="e23" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSPxRU/pspx_W.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="e24" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSPxRU/pspx_X.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="e25" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSPxRU/pspx_Y.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="e26" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSPxRU/pspx_Z.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="e27" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/PSPxRU/pspx_0.xml#pkg_items"/>
 		</Items>
 	</View>
 </XMBML>
