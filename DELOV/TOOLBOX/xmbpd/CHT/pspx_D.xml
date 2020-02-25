@@ -175,6 +175,18 @@
                 <Pair key="info"><String>BLES00948. Чит к версии: 01.02</String></Pair>
                 <Pair key="ingame"><String>disable</String></Pair>
             </Table>
+			<Table key="NPUB30532_007">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPUB30532.PNG</String></Pair>
+                <Pair key="title"><String>DEEP BLACK</String></Pair>
+                <Pair key="info"><String>NPUB30532. Чит к версии: 01.00</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="BLJM61258_009">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/BLJM61258.PNG</String></Pair>
+                <Pair key="title"><String>DEAD OR ALIVE 5 Last Round</String></Pair>
+                <Pair key="info"><String>BLJM61258. Чит к версии: 01.05</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
         </Attributes>
         <Items>
             <Query
@@ -350,6 +362,18 @@
                 key="BLES00948_016"
                 attr="BLES00948_016"
                 src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_D_lnk.xml#BLES00948_016"
+            />
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPUB30532_007"
+                attr="NPUB30532_007"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_D_lnk.xml#NPUB30532_007"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="BLJM61258_009"
+                attr="BLJM61258_009"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_D_lnk.xml#BLJM61258_009"
             />
         </Items>
     </View>

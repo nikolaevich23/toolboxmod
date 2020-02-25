@@ -1,6 +1,6 @@
 <XMBML version="1.0">
     <View id="pkg_items">
-        <Attributes>
+        <Attributes>			
             <Table key="BLES02078_025">
                 <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMAGES/IMAGESPS3GAME/Call of Duty Advanced Warfare</String></Pair>
                 <Pair key="title"><String>Call of Duty® Advanced Warfare (BLES02078)</String></Pair>
@@ -47,6 +47,18 @@
                 <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMAGES/IMAGESPS3GAMES/Call of Duty World at War</String></Pair>
                 <Pair key="title"><String>Call of Duty®: World at War</String></Pair>
                 <Pair key="info"><String>BLES00404. Чит к версии: 01.07</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+			<Table key="NPEB02266_006">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/PSNEU/Call of Duty - Black Ops III</String></Pair>
+                <Pair key="title"><String>Call of Duty®: Black Ops III (NPEB02266)</String></Pair>
+                <Pair key="info"><String>NPEB02266. Чит к версии: 01.07</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPEB00740_008">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMAGES/IMAGESPS3GAME/Call of Duty Modern Warfare 4</String></Pair>
+                <Pair key="title"><String>Call Of Duty® 4: Modern Warfare</String></Pair>
+                <Pair key="info"><String>NPEB00740. Чит к версии: 01.40</String></Pair>
                 <Pair key="ingame"><String>disable</String></Pair>
             </Table>
             <Table key="BLUS30347_032">
@@ -188,6 +200,18 @@
                 key="BLES00404_029"
                 attr="BLES00404_029"
                 src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_C_lnk.xml#BLES00404_029"
+            />
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPEB02266_006"
+                attr="NPEB02266_006"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_C_lnk.xml#NPEB02266_006"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPEB00740_008"
+                attr="NPEB00740_008"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_C_lnk.xml#NPEB00740_008"
             />
             <Query
                 class="type:x-xmb/folder-pixmap"

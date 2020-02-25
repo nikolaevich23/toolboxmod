@@ -12,11 +12,17 @@
                 <Pair key="title"><String>Batman™: Arkham Origins</String></Pair>
                 <Pair key="info"><String>BLES01784. Чит к версии: 01.06</String></Pair>
                 <Pair key="ingame"><String>disable</String></Pair>
-            </Table>
+            </Table>						
             <Table key="BLES01275_018">
                 <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/BLES01275.PNG</String></Pair>
                 <Pair key="title"><String>BATTLEFIELD 3™</String></Pair>
                 <Pair key="info"><String>BLES01275. Чит к версии: 01.09</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+			<Table key="NPEB00723_004">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/PSNEU/Battlefield 3</String></Pair>
+                <Pair key="title"><String>BATTLEFIELD 3™</String></Pair>
+                <Pair key="info"><String>NPEB00723. Чит к версии: 01.09</String></Pair>
                 <Pair key="ingame"><String>disable</String></Pair>
             </Table>
             <Table key="BLES01832_019">
@@ -25,10 +31,22 @@
                 <Pair key="info"><String>BLES01832. Чит к версии: 01.20</String></Pair>
                 <Pair key="ingame"><String>disable</String></Pair>
             </Table>
+			<Table key="NPEB01303_012">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/PSNEU/Battlefield 4</String></Pair>
+                <Pair key="title"><String>Battlefield 4™</String></Pair>
+                <Pair key="info"><String>NPEB01303. Чит к версии: 01.20</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
             <Table key="BLES00261_020">
                 <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMAGES/IMAGESPS3GAME/Battlefield Bad Company</String></Pair>
                 <Pair key="title"><String>BATTLEFIELD: Bad Company™</String></Pair>
                 <Pair key="info"><String>BLES00261. Чит к версии: 01.20</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+			<Table key="NPUB30583_005">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPUB30583.PNG</String></Pair>
+                <Pair key="title"><String>BATTLEFIELD: Bad Company 2™</String></Pair>
+                <Pair key="info"><String>NPUB30583. Чит к версии: 01.05</String></Pair>
                 <Pair key="ingame"><String>disable</String></Pair>
             </Table>
 			<Table key="BLES00599_009">
@@ -85,6 +103,12 @@
                 <Pair key="info"><String>BLES00759. Чит к версии: 01.02</String></Pair>
                 <Pair key="ingame"><String>disable</String></Pair>
             </Table>
+			<Table key="BLES01134_001">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMAGES/IMAGESPS3GAME/Bulletstorm</String></Pair>
+                <Pair key="title"><String>Bulletstorm</String></Pair>
+                <Pair key="info"><String>BLES01134. Чит к версии: 01.03</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
         </Attributes>
         <Items>
             <Query
@@ -105,17 +129,35 @@
                 attr="BLES01275_018"
                 src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_B_lnk.xml#BLES01275_018"
             />
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPEB00723_004"
+                attr="NPEB00723_004"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_B_lnk.xml#NPEB00723_004"
+            />
             <Query
                 class="type:x-xmb/folder-pixmap"
                 key="BLES01832_019"
                 attr="BLES01832_019"
                 src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_B_lnk.xml#BLES01832_019"
             />
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPEB01303_012"
+                attr="NPEB01303_012"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_B_lnk.xml#NPEB01303_012"
+            />
             <Query
                 class="type:x-xmb/folder-pixmap"
                 key="BLES00261_020"
                 attr="BLES00261_020"
                 src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_B_lnk.xml#BLES00261_020"
+            />
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPUB30583_005"
+                attr="NPUB30583_005"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_B_lnk.xml#NPUB30583_005"
             />
 			 <Query
                 class="type:x-xmb/folder-pixmap"
@@ -171,6 +213,12 @@
                 attr="BLES00759_013"
                 src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_B_lnk.xml#BLES00759_013"
             />
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="BLES01134_001"
+                attr="BLES01134_001"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_B_lnk.xml#BLES01134_001"
+            />   
         </Items>
     </View>
 </XMBML>

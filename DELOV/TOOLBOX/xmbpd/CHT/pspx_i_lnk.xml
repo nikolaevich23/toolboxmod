@@ -32,7 +32,7 @@
     </View>
     <View id="BLES01967_017">
         <Attributes>
-            <Table key="link_017">
+            <Table key="link_021">
                 <Pair key="info"><String>net_package_install</String></Pair>
                 <Pair key="pkg_src"><String>https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/_wUjn0qqt4kzvQ</String></Pair>
                 <Pair key="pkg_src_qa"><String>https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/_wUjn0qqt4kzvQ</String></Pair>
@@ -42,7 +42,7 @@
             </Table>
         </Attributes>
         <Items>
-            <Item class="type:x-xmb/xmlnpsignup" key="link_017" attr="link_017"/>
+            <Item class="type:x-xmb/xmlnpsignup" key="link_021" attr="link_021"/>
         </Items>
     </View>
     <View id="BCES00609_009">

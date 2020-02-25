@@ -97,6 +97,18 @@
                 <Pair key="info"><String>NPEB00668. Чит к версии: 01.00</String></Pair>
                 <Pair key="ingame"><String>disable</String></Pair>
             </Table>
+			<Table key="NPEB01425_013">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/PSNEU/Teenage Mutant Ninja Turtles Mutants in Manhattan</String></Pair>
+                <Pair key="title"><String>Teenage Mutant Ninja Turtles: Out of the Shadows Trial</String></Pair>
+                <Pair key="info"><String>NPEB01425. Чит к версии: 01.00</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="BLES01982_014">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMAGES/IMAGESPS3GAME/Thief</String></Pair>
+                <Pair key="title"><String>Thief</String></Pair>
+                <Pair key="info"><String>BLES01982. Чит к версии: 01.02</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
         </Attributes>
         <Items>
 			<Query
@@ -194,6 +206,18 @@
                 key="NPEB00668_028"
                 attr="NPEB00668_028"
                 src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_T_lnk.xml#NPEB00668_028"
+            />
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPEB01425_013"
+                attr="NPEB01425_013"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_T_lnk.xml#NPEB01425_013"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="BLES01982_014"
+                attr="BLES01982_014"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_T_lnk.xml#BLES01982_014"
             />
         </Items>
     </View>

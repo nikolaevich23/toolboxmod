@@ -55,6 +55,12 @@
                 <Pair key="info"><String>BLES01807. Чит к версии: 01.27</String></Pair>
                 <Pair key="ingame"><String>disable</String></Pair>
             </Table>
+			<Table key="NPEB01283_002">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMAGES/IMAGESPS3GAMES/Grand Theft Auto V</String></Pair>
+                <Pair key="title"><String>Grand Theft Auto V</String></Pair>
+                <Pair key="info"><String>NPEB01283. Чит к версии: 01.27</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
             <Table key="NPEA00445_012">
                 <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/PSNEU/God of war Ascension - Part 8</String></Pair>
                 <Pair key="title"><String>God of War: Ascension™ (EU)</String></Pair>
@@ -146,6 +152,12 @@
                 key="BLES01807_003"
                 attr="BLES01807_003"
                 src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_G_lnk.xml#BLES01807_003"
+            />
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPEB01283_002"
+                attr="NPEB01283_002"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_G_lnk.xml#NPEB01283_002"
             />
             <Query
                 class="type:x-xmb/folder-pixmap"

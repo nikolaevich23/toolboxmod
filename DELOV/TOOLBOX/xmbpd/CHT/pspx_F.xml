@@ -91,6 +91,12 @@
                 <Pair key="info"><String>BLES01801. Чит к версии: 01.00</String></Pair>
                 <Pair key="ingame"><String>disable</String></Pair>
             </Table>
+			<Table key="MRTC00003_010">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMAGES/IMAGESPS1GAMES/Final Fantasy VIII</String></Pair>
+                <Pair key="title"><String>Final Fantasy 8</String></Pair>
+                <Pair key="info"><String>MRTC00003. Чит к версии: 01.00</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
         </Attributes>
         <Items>
 			<Query
@@ -182,6 +188,12 @@
                 key="BLES01801_004"
                 attr="BLES01801_004"
                 src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_F_lnk.xml#BLES01801_004"
+            />
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="MRTC00003_010"
+                attr="MRTC00003_010"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/CHT/pspx_F_lnk.xml#MRTC00003_010"
             />
         </Items>
     </View>
