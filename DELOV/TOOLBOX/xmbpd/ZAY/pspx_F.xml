@@ -19,6 +19,42 @@
                 <Pair key="info"><String>NPEB01124. Игра размер (1.15 GB) и другие файлы: 2 pkg</String></Pair>
                 <Pair key="ingame"><String>disable</String></Pair>
             </Table>
+			<Table key="NPUB30188_009">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPUB30188.PNG</String></Pair>
+                <Pair key="title"><String>Family Feud</String></Pair>
+                <Pair key="info"><String>NPUB30188-250.44 MB (2 pkg)</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPEB00599_010">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/PSNEU/Far Cry 2</String></Pair>
+                <Pair key="title"><String>Far Cry® 2</String></Pair>
+                <Pair key="info"><String>NPEB00599-3.85 GB (2 pkg)</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPEB01096_011">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/PSNEU/Far Cry 3</String></Pair>
+                <Pair key="title"><String>Far Cry® 3</String></Pair>
+                <Pair key="info"><String>NPEB01096-6.25 GB (2 pkg)</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPEB00437_012">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/PSNEU/Fast Draw Shotdown</String></Pair>
+                <Pair key="title"><String>Fast Draw Showdown</String></Pair>
+                <Pair key="info"><String>NPEB00437-699.2 MB (2 pkg)</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPUB30023_013">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPUB30023.PNG</String></Pair>
+                <Pair key="title"><String>Fatal Inertia EX</String></Pair>
+                <Pair key="info"><String>NPUB30023-906.55 MB (2 pkg)</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPUB30835_014">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPUB30835.PNG</String></Pair>
+                <Pair key="title"><String>FIFA 13 Early Access</String></Pair>
+                <Pair key="info"><String>NPUB30835-6.09 GB (4 pkg)</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
         </Attributes>
         <Items>
             <Query

@@ -55,6 +55,42 @@
                 <Pair key="info"><String>NPEA00518-1.46 GB (2 pkg)</String></Pair>
                 <Pair key="ingame"><String>disable</String></Pair>
             </Table>
+			<Table key="NPUB31496_002">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPUB31496.PNG</String></Pair>
+                <Pair key="title"><String>Escape Dead Island</String></Pair>
+                <Pair key="info"><String>NPUB31496-4.3 GB (3 pkg)</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPUB31385_003">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPUB31385.PNG</String></Pair>
+                <Pair key="title"><String>Ethan: Meteor Hunter</String></Pair>
+                <Pair key="info"><String>NPUB31385-667.08 MB (2 pkg)</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPEB00484_004">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/PSNEU/Eufloria</String></Pair>
+                <Pair key="title"><String>Eufloria Trial</String></Pair>
+                <Pair key="info"><String>NPEB00484-221.86 MB (3 pkg)</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPEA00335_006">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPEA00335.PNG</String></Pair>
+                <Pair key="title"><String>Everybody's Golf™: World Tour</String></Pair>
+                <Pair key="info"><String>NPEA00335-7.32 GB (2 pkg)</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPUA80098_007">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPUA80098.PNG</String></Pair>
+                <Pair key="title"><String>Everyday Shooter™</String></Pair>
+                <Pair key="info"><String>NPUA80098-37.35 MB (2 pkg)</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="NPEB02239_008">
+                <Pair key="icon"><String>/dev_hdd0/game/HENTOOLBX/USRDIR/IMG/PSPxRU/NPEB02239.PNG</String></Pair>
+                <Pair key="title"><String>Extreme Exorcism</String></Pair>
+                <Pair key="info"><String>NPEB02239-123.7 MB (3 pkg)</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
         </Attributes>
         <Items>
             <Query
@@ -110,6 +146,42 @@
                 key="NPEA00518_008"
                 attr="NPEA00518_008"
                 src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/ZAY/pspx_E_lnk.xml#NPEA00518_008"
+            />
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPUB31496_002"
+                attr="NPUB31496_002"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/ZAY/pspx_E_lnk.xml#NPUB31496_002"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPUB31385_003"
+                attr="NPUB31385_003"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/ZAY/pspx_E_lnk.xml#NPUB31385_003"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPEB00484_004"
+                attr="NPEB00484_004"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/ZAY/pspx_E_lnk.xml#NPEB00484_004"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPEA00335_006"
+                attr="NPEA00335_006"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/ZAY/pspx_E_lnk.xml#NPEA00335_006"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPUA80098_007"
+                attr="NPUA80098_007"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/ZAY/pspx_E_lnk.xml#NPUA80098_007"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="NPEB02239_008"
+                attr="NPEB02239_008"
+                src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/TOOLBOX/xmbpd/ZAY/pspx_E_lnk.xml#NPEB02239_008"
             />
         </Items>
     </View>
